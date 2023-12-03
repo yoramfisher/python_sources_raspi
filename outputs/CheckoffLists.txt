@@ -1,0 +1,397 @@
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/Documentation/Check-off Lists and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate
+1	 	/FDR Order Checklist.docx	2018-03-16 10:33:25
+2	 	/SI-400762_PRODUCT_MFG_TIME_TRAVELER.xlsx	2017-10-18 15:18:23
+3	 	/SI-500010_K Electronics Rail Check-off.doc	2021-03-11 11:49:56
+4	 	/SI-500011_H COMA Check-Off.doc	2013-10-22 14:48:54
+5	 	/SI-500012_I Mechanical Chassis Check-off.docx	2023-06-14 13:44:52
+6	 	/SI-500019_A CCD Power Supply Check-off Document.doc	2009-01-13 11:15:15
+7	 	/SI-500021_D Ramp Driver (Sweep Module) Check-off Document.doc	2018-06-20 13:46:05
+8	 	/SI-500043_A Daughter Board Check-off Document.doc	2008-12-12 16:51:40
+9	 	/SI-500058_A Ctrl. & Sweep Output Cable Check-off Document.doc	2008-12-12 16:51:11
+10	 	/SI-500059_A Multi-Speed Sweep PCB Check-off Document.doc	2008-12-12 14:47:46
+11	 	/SI-500061_B Strain Relief Check-off Document.doc	2009-09-30 09:08:31
+12	 	/SI-500067_D Periscopes & 45mm Shutter Assembly Check-off.docx	2021-01-18 17:00:07
+13	 	/SI-500068_M CCD Camera Test Procedure_Check-off Document.doc	2020-08-18 16:43:20
+14	 	/SI-500069_F Base Camera Check-off Document.doc	2020-11-09 13:04:20
+15	 	/SI-500074_B Handles Check-off Document.doc	2009-10-02 10:06:46
+16	 	/SI-500080_C Thermo Cube Chiller Package Check-off Document.doc	2009-01-27 15:04:18
+17	 	/SI-500082_C Computer & Software Check-off Document.doc	2014-12-03 10:34:18
+18	 	/SI-500117_E Orion Shipping Check-off.doc	2009-09-03 08:39:38
+19	 	/SI-500119_J Shipping Check-off Document.doc	2022-10-28 10:17:50
+20	 	/SI-500124_C GEP EEPROM Settings Document.doc	2022-08-24 09:05:39
+21	 	/SI-500124_C GEP EEPROM Settings Document.docx	2022-08-24 09:09:36
+22	 	/SI-500138_D Serial to Optical Adapter Check-off Document.doc.docx	2020-02-20 09:05:53
+23	 	/SI-500144_A Sydor Reticle and Nest Assembly Check-off Document.docx	2021-12-08 10:07:40
+24	 	/SI-500147_A ROSS1000_2000 MCP and Gate Module Check Off.docx	2016-01-28 16:43:54
+25	 	/SI-500156_C Base Only Offner Check-off (BOOI) Document.doc	2023-03-16 13:23:41
+26	 	/SI-500158_A Ballistics Imaging Mechanical  Milestone Check-Off.doc	2013-12-16 12:40:19
+27	 	/SI-500160_A BICS System Camera Breakout Boxes Check-Off Document.doc	2013-12-16 11:32:35
+28	 	/SI-500162_A Fiberized Laser Pulser FLP-680-5 Check-Off Document.doc	2023-04-18 11:50:59
+29	 	/SI-500171_A ROSS Streak Camera Repair Shipping Check-off.doc	2017-11-29 08:21:14
+30	 	/SI-500175_C Fiberized Laser Pulse Generator SI-FLPG-650.docx	2019-11-25 11:44:54
+31	 	/SI-500175_D Fiberized Laser Pulse Generator SI-FLPG-650.docx	2023-01-24 15:38:39
+32	 	/SI-500176_B ROSS ST-DS Gate Module Check Off.docx	2019-03-18 13:34:49
+33	 	/SI-500177_A AWSS System Test Check Off.docx	2017-06-15 17:56:07
+34	 	/SI-500178_F CD Check-off Document.docx	2023-03-08 17:32:26
+35	 	/SI-500182_A AWE Site License CD_DVD Check-off Document.doc	2018-05-30 09:41:20
+36	 	/SI-500183_B CEA HTTP Server Rack Check-off Document.doc	2020-07-27 16:19:56
+37	 	/SI-500185_C Trigger Combiner Check Off.docx	2020-01-06 14:34:45
+38	 	/SI-500186_B GEP EEPROM Settings for LLE-8Speed  Document.doc	2019-03-22 10:58:38
+39	 	/SI-500187 ROSS Final Data Report Procedure_A.docx	2019-05-08 14:50:16
+40	 	/SI-500188_B ROSS Shutter & Driver Incoming Inspection, Testing, & IR-Mod Checkoff.docx	2021-02-09 16:42:36
+41	 	/SI-500197_A Lens Dynacal Aseembly Check-Off.docx	2022-12-16 11:52:50
+42	 	/SI-500200 SI-600190 HV ST-DS Gated Tube Supply Cable Check-off.docx	2019-11-21 14:21:25
+43	 	/SI-500211_A Flat_Field_Illuminator_Check_off.docx	2021-06-04 13:00:41
+44	 	/SI-500214_A PAD Electronics Milestone Check-off.docx	2021-12-13 14:27:27
+45	 	/SI-500217_A PGCPS_Pulser_Board_Check_off.docx	2022-05-27 11:57:29
+46	 	/SI-500239_A ROSS2000 CD Check-off Document.docx	2022-09-15 16:46:55
+47	 	/SI-500239_B ROSS1000_2000 CD Check-off Document.docx	2022-10-27 14:52:28
+48	 	/SI-500241_Active Trigger Combiner Check-off Document.docx	2022-10-11 13:55:34
+49	 	/SI-500242 SPECTROMETER INTERFACE MODULE ASSEMBLY Check-Off.docx	2022-12-16 13:53:50
+50	 	/SI-500242_B SPECTROMETER INTERFACE MODULE ASSEMBLY Check-Off.docx	2023-10-12 11:41:30
+51	 	/SI-500243_B hDisc Tube Materials Recieved Check-off.doc	2023-03-20 13:52:38
+52	 	/SI-500XXX GEP EEPROM Settings for euXFEL-10Hz  Document.doc	2020-10-01 15:36:36
+53	 	/Archive/GEP Rail Checklist Template (old version).xls	2008-01-16 13:48:15
+54	 	/Archive/OCM_CheckoffList.doc	2006-06-14 11:12:15
+55	 	/Archive/OCM_CheckoffList_RevC.doc	2006-08-17 11:40:05
+56	 	/Archive/OCM_CheckoffList_RevD.doc	2007-05-31 09:09:40
+57	 	/Archive/SI-500002 deprecated_donotuse_OCM Integration Check-off.doc	2008-01-21 15:10:13
+58	 	/Archive/SI-500002_B Aft Module Check-Off.doc	2009-01-27 13:48:44
+59	 	/Archive/SI-500003 System Check-off.doc	2008-08-26 14:43:47
+60	 	/Archive/SI-500003_C System Check-off.doc	2009-07-28 10:28:00
+61	 	/Archive/SI-500003_F System Check-off.doc	2017-06-08 16:44:51
+62	 	/Archive/SI-500003_G System Check-off.doc	2018-03-14 15:32:30
+63	 	/Archive/SI-500004_B GEP Check-off.doc	2008-12-10 15:14:26
+64	 	/Archive/SI-500005_A Shutter Incoming Test Data Sheet.doc	2008-12-12 16:05:53
+65	 	/Archive/SI-500006_B Offner Check-off.docx	2009-03-09 16:26:51
+66	 	/Archive/SI-500006_C RIO (AKA Offner) Check-off.docx	2016-02-18 17:29:30
+67	 	/Archive/SI-500006_D Offner Check-off.docx	2019-04-17 10:46:58
+68	 	/Archive/SI-500006_E ROSS Imaging Optic (Offner assembly) check-off.docx	2020-11-20 14:46:58
+69	 	/Archive/SI-500007_B Internal Comb Generator Check-off.docx	2009-11-23 16:54:36
+70	 	/Archive/SI-500007_C Internal Comb Generator Check-off.docx	2014-04-10 10:38:09
+71	 	/Archive/SI-500007_D Internal Comb Generator Check-off.docx	2019-01-24 09:00:59
+72	 	/Archive/SI-500007_E Internal Comb Generator Check-off.docx	2019-04-08 14:38:38
+73	 	/Archive/SI-500008_C Fore Module Check-off.doc	2016-02-25 08:46:10
+74	 	/Archive/SI-500009_B XYZ Theta Stack Check-off.doc	2015-10-05 15:48:31
+75	 	/Archive/SI-500009_C XYZ Theta Stack Check-off.doc	2018-02-07 08:59:00
+76	 	/Archive/SI-500010_F Electronics Rail Check-off.doc	2014-08-27 12:58:21
+77	 	/Archive/SI-500010_G Electronics Rail Check-off.doc	2015-01-06 11:37:28
+78	 	/Archive/SI-500010_I Electronics Rail Check-off.doc	2018-02-28 09:44:07
+79	 	/Archive/SI-500010_J Electronics Rail Check-off.doc	2018-04-12 13:16:26
+80	 	/Archive/SI-500011_B COMA Check-Off.doc	2009-01-27 13:57:04
+81	 	/Archive/SI-500011_C COMA Check-off.doc	2009-02-03 13:22:33
+82	 	/Archive/SI-500012 Mechanical Chassis Check-off.doc	2008-11-14 14:29:06
+83	 	/Archive/SI-500012_E Mechanical Chassis Check-off.doc	2009-02-03 14:27:05
+84	 	/Archive/SI-500012_F Mechanical Chassis Check-off.doc	2009-07-29 12:57:09
+85	 	/Archive/SI-500012_G Mechanical Chassis Check-off.docx	2019-10-24 13:45:25
+86	 	/Archive/SI-500012_H Mechanical Chassis Check-off.docx	2020-11-18 11:16:47
+87	 	/Archive/SI-500013_A Motorized 2 Mirror & Iris Check-off.doc	2019-02-12 10:43:54
+88	 	/Archive/SI-500013_B Motorized 2 Mirror & Iris Check-off.docx	2020-01-07 11:40:41
+89	 	/Archive/SI-500014_B 28V Power Supply Check-off.doc	2011-04-06 11:40:58
+90	 	/Archive/SI-500014_C 28V Power Supply Check-off.doc	2019-05-13 09:12:09
+91	 	/Archive/SI-500015_E Cathode PS Check-off.doc	2015-03-17 09:13:27
+92	 	/Archive/SI-500015_F Cathode PS Check-off.doc	2015-06-02 16:31:10
+93	 	/Archive/SI-500015_G Cathode PS Check-off.doc	2017-03-01 11:39:06
+94	 	/Archive/SI-500016_A GEP Cables  Check-off.doc	2008-12-15 13:43:27
+95	 	/Archive/SI-500017_I Streak Tube Potting & COMA Assembly Check-off.doc	2013-08-19 10:31:42
+96	 	/Archive/SI-500017_K Streak Tube Potting & COMA Assembly Check-off.doc	2016-01-13 10:14:10
+97	 	/Archive/SI-500017_M Streak Tube Potting & COMA Assembly Check-off.doc	2016-06-30 16:38:56
+98	 	/Archive/SI-500017_N Streak Tube Potting & COMA Assembly Check-off.doc	2018-03-22 14:34:36
+99	 	/Archive/SI-500017_O Streak Tube Potting and COMA Aseembly Check-off.docx	2019-07-24 08:56:52
+100	 	/Archive/SI-500018_A OCM Check-off.doc	2008-12-12 14:50:38
+101	 	/Archive/SI-500020_A 12 Axis Motor Controller Check-off.doc	2010-03-12 08:49:30
+102	 	/Archive/SI-500020_B 12 Axis Motor Controller Check-off.docx	2020-05-27 09:08:41
+103	 	/Archive/SI-500020_C OBSOLETE 12 Axis Motor Controller Check-off.docx	2020-11-12 10:08:41
+104	 	/Archive/SI-500021_A Ramp Driver (Sweep Module) Check-off.doc	2009-03-02 08:37:09
+105	 	/Archive/SI-500021_B Ramp Driver (AKA Sweep Module) Check-off.doc	2009-07-22 15:43:25
+106	 	/Archive/SI-500021_C Ramp Driver (AKA Sweep Module) Check-off.doc	2016-12-09 14:17:57
+107	 	/Archive/SI-500022_A COMA Assembly Check-off.doc	2008-12-12 16:49:50
+108	 	/Archive/SI-500023_A Motor Cable Fan-Out Board (Long) Check-off.doc	2008-12-12 14:43:23
+109	 	/Archive/SI-500024_A Free Space Input Check-off.doc	2008-12-15 13:42:12
+110	 	/Archive/SI-500024_C Free Space Input Check-off.doc	2010-06-29 15:59:12
+111	 	/Archive/SI-500024_D Free Space Input Check-off.doc	2019-03-07 06:53:18
+112	 	/Archive/SI-500025_B LTC#3 (Light Tight Cover 3- Offner) Check-off.doc	2020-11-23 13:17:22
+113	 	/Archive/SI-500026_A Optical Interlock Cable Check-off.doc	2008-12-12 15:15:31
+114	 	/Archive/SI-500027_A VCSEL Board Check-off.doc	2008-12-12 16:40:41
+115	 	/Archive/SI-500028_A PS Board Check-off.doc	2008-12-12 15:43:39
+116	 	/Archive/SI-500029_A RF Board Check-off.doc	2008-12-12 15:49:48
+117	 	/Archive/SI-500030_A Comb Cable Assembly Check-off.doc	2008-12-12 16:50:27
+118	 	/Archive/SI-500031_B Flip In Mirror Check-off.doc	2018-05-18 10:08:17
+119	 	/Archive/SI-500031_C Flip In Mirror Check-off.doc	2018-05-21 08:54:55
+120	 	/Archive/SI-500031_D Flip In Mirror Check-off.doc	2023-04-28 10:18:52
+121	 	/Archive/SI-500032_A 35MM Shutter Check-off.doc	2008-12-12 16:46:14
+122	 	/Archive/SI-500033_A Motor Cable Fan-Out (Short) Check-off.doc	2008-12-12 14:41:40
+123	 	/Archive/SI-500034_A 25mm & 35mm Shutter Control Brd. Check-off.doc	2009-01-27 13:49:23
+124	 	/Archive/SI-500035_B LTC#1 Light Tight Cover 1 (AFT) Check-off.doc	2009-02-03 13:31:26
+125	 	/Archive/SI-500036_A Fiber Switchbox Check-off.doc	2008-12-15 13:40:40
+126	 	/Archive/SI-500036_B Fiber Switchbox Check-off.doc	2009-01-02 09:44:36
+127	 	/Archive/SI-500037_A Cable F Check-off.doc	2008-12-12 16:47:57
+128	 	/Archive/SI-500038_A TEC PS Cable Check-off.doc	2008-12-12 16:35:06
+129	 	/Archive/SI-500039_A Logic PS Cable Check-off.doc	2008-12-12 14:37:05
+130	 	/Archive/SI-500040_A TEC_Logic PS Cable Check-off Document.doc	2008-12-12 16:36:27
+131	 	/Archive/SI-500041_A OBSOLETE 12 Axis Mother Board Check-off Document.doc	2008-12-10 13:38:49
+132	 	/Archive/SI-500042_A 12-Axis Internal Cable Check-off Document.doc	2008-12-12 16:44:18
+133	 	/Archive/SI-500044_C Shutter IR Mod Check-off.doc	2018-10-24 10:22:17
+134	 	/Archive/SI-500044_D Shutter IR Modification Checkoff.docx	2020-02-14 11:02:22
+135	 	/Archive/SI-500045_C Precision Flat Field Head Check-off.doc	2016-09-15 16:18:36
+136	 	/Archive/SI-500045_E Precision Flat Field Head Check-off Document.doc	2017-02-01 11:30:18
+137	 	/Archive/SI-500046_A LED Board Check-off Document.doc	2008-12-15 13:49:25
+138	 	/Archive/SI-500047_B Data Head Check-off.doc	2009-01-27 13:55:55
+139	 	/Archive/SI-500047_C Data Head Check-off.doc	2009-01-27 15:52:17
+140	 	/Archive/SI-500048_B LTC#2 Light Tight Cover 2 (XYZ) Check-off Document.doc	2009-02-03 13:35:52
+141	 	/Archive/SI-500049_A Ultravolt HV PS Check-off Document.doc	2008-12-12 16:38:05
+142	 	/Archive/SI-500050_A Ultravolt HV PS Filter Check-off Document.doc	2008-12-12 16:39:22
+143	 	/Archive/SI-500051_A 9 Pin Ultravolt Connector Check-off Document.doc	2008-12-12 16:43:39
+144	 	/Archive/SI-500052_A Photocell Housing Check-off Document.doc	2008-12-12 15:22:35
+145	 	/Archive/SI-500053_A Photocell Socket Check-off Document.doc	2008-12-12 15:31:55
+146	 	/Archive/SI-500054_A HV PCB Check-off Document.doc	2008-12-15 13:49:08
+147	 	/Archive/SI-500055_A HV Panel Mount Connector Check-off Document.doc	2008-12-15 13:48:51
+148	 	/Archive/SI-500056_A LED Plug Check-off Document.doc	2008-12-15 13:49:40
+149	 	/Archive/SI-500057_A Sweep HV Cable Check-off Document.doc	2008-12-12 16:26:24
+150	 	/Archive/SI-500058_A Ctrl. & Sweep Output Cable Check-off Document.doc	2008-12-12 16:51:11
+151	 	/Archive/SI-500060_C Cable G_Cathode to GEP Cable Check-off Document.doc	2015-10-19 08:51:02
+152	 	/Archive/SI-500062_B LEMO Cable Check-off Document.doc	2008-12-10 15:39:28
+153	 	/Archive/SI-500063_B CCD Power Cable Check-off Document.doc	2008-12-10 14:12:50
+154	 	/Archive/SI-500064_B Anchor Check-off Document.doc	2008-12-10 13:48:34
+155	 	/Archive/SI-500065_A CCD Clamps Check-off Document.doc	2008-12-12 16:48:55
+156	 	/Archive/SI-500066_A HV Ground Mesh Check-off Document.doc	2008-12-15 13:46:59
+157	 	/Archive/SI-500067_C Periscopes_45mm Shutter Assembly Check-off Document.doc	2012-10-16 08:54:26
+158	 	/Archive/SI-500068_D CCD Camera Test Procedure_Check-off.doc	2009-02-06 09:21:09
+159	 	/Archive/SI-500068_I CCD Camera Test Procedure_Check-off.doc	2015-07-27 17:14:12
+160	 	/Archive/SI-500068_L CCD Camera Test Procedure Check-off Document.doc	2020-02-24 14:12:56
+161	 	/Archive/SI-500068_M CCD Incoming Test Procedure and Check-Off Document.docx	2020-02-21 10:52:46
+162	 	/Archive/SI-500069_ CBase Camera Check-off.doc	2009-07-23 15:26:46
+163	 	/Archive/SI-500069_E Base Camera Check-off Document.doc	2012-07-17 07:51:37
+164	 	/Archive/SI-500070_A Shutter_HV Interlock Check-off Document.doc	2008-12-12 16:09:58
+165	 	/Archive/SI-500071_B Shutter Control Board Check-off Document.doc	2020-02-14 11:01:19
+166	 	/Archive/SI-500072_A COMA Enclosure Check-off.doc	2008-12-12 16:50:13
+167	 	/Archive/SI-500073_B External Cable CCD Power Check-off Document.doc	2008-12-10 14:48:15
+168	 	/Archive/SI-500075_A Potted Cathode HV Cable Check-off.doc	2008-12-12 15:33:17
+169	 	/Archive/SI-500075_B Potted Cathode HV Cable Check-off.doc	2015-02-10 17:10:04
+170	 	/Archive/SI-500077_C Deflection Terminators Check-off Document.doc	2011-08-10 14:42:48
+171	 	/Archive/SI-500078_A EO Shutter Drive_Quadrupole Check-off Document.doc	2008-12-15 13:39:27
+172	 	/Archive/SI-500079_B F1, F2, B2 Focus Cable Check-off Document.doc	2008-12-10 14:50:24
+173	 	/Archive/SI-500081_A Lifting Apparatus Check-off Document.doc	2008-12-15 13:50:18
+174	 	/Archive/SI-500082_BComputer & Software Check-off.doc	2009-01-27 15:41:15
+175	 	/Archive/SI-500083 Obsolete Orion Shipping Crate Check-off.doc	2009-01-26 16:38:17
+176	 	/Archive/SI-500084_A 28V Power Out Check-off Document.doc	2008-12-12 16:45:40
+177	 	/Archive/SI-500085_A GEP Digital_Analog Board Check-off Document.doc	2008-12-15 13:43:55
+178	 	/Archive/SI-500088_B Sweep & Bias HV PCB Check-off Document.doc	2023-08-28 15:38:19
+179	 	/Archive/SI-500090_A RS232 Port Cable Check-off Document.doc	2008-12-12 16:02:23
+180	 	/Archive/SI-500091_A Sweep Module Cable Check-off Document.doc	2008-12-12 16:27:21
+181	 	/Archive/SI-500092_A HV Interlock Cable Check-off Document.doc	2008-12-15 13:48:35
+182	 	/Archive/SI-500093_A Cathode Power Control Cable Check-off Document.doc	2008-12-12 16:48:20
+183	 	/Archive/SI-500094_A BNC Cable Check-off Document.doc	2008-12-12 16:47:19
+184	 	/Archive/SI-500095_A Low Voltage Power Cable Check-off Document.doc	2008-12-12 14:38:52
+185	 	/Archive/SI-500096_A Relay Control Cable Check-off Document.doc	2008-12-15 13:56:50
+186	 	/Archive/SI-500097_A 25 Pin D-Sub Ribbon Check-off Document.doc	2008-12-12 16:44:46
+187	 	/Archive/SI-500098_A 37 Pin D-Sub Ribbon Check-off Document.doc	2008-12-12 16:46:28
+188	 	/Archive/SI-500099_A Power Switch Cable Check-off Document.doc	2008-12-12 15:38:14
+189	 	/Archive/SI-5000xx CD Check-off.doc	2010-07-26 16:47:57
+190	 	/Archive/SI-5000xx_B CD Check-off.doc	2017-07-26 16:28:46
+191	 	/Archive/SI-5000xx_C CD Check-off.doc	2017-07-25 15:38:20
+192	 	/Archive/SI-500100_B 28V Power Cable Check-off Document.doc	2008-12-10 13:42:09
+193	 	/Archive/SI-500101_A Optical Module Power Cable Check-off Document.doc	2008-12-12 15:17:38
+194	 	/Archive/SI-500102_A Shutter Power Cable Check-off Document.doc	2008-12-12 16:08:25
+195	 	/Archive/SI-500103_A Fan Power Cable Check-off Document.doc	2008-12-15 13:40:26
+196	 	/Archive/SI-500104_A 16 Pin Flat Cable Check-off Document.doc	2008-12-12 16:44:32
+197	 	/Archive/SI-500105_A 4 Conductor Cable Check-off Document.doc	2008-12-10 13:38:10
+198	 	/Archive/SI-500106_B Sweep Module HV Cable Check-off Document.doc	2008-12-12 16:32:30
+199	 	/Archive/SI-500107_A EO Shutter Cable Check-off Document.doc	2008-12-15 13:39:06
+200	 	/Archive/SI-500107_B GEP EO Shutter Cable Check-off Document.doc	2008-12-15 13:44:14
+201	 	/Archive/SI-500108_B GEP Quadrupole Cable  Check-off Document.doc	2008-12-15 13:46:03
+202	 	/Archive/SI-500109_A Display Module Check-off Document.doc	2008-12-15 13:36:51
+203	 	/Archive/SI-500112_A Cable 6, 7, 8 Check-off Document.doc	2008-12-12 16:47:34
+204	 	/Archive/SI-500113_B Cable A, B, C4, C6, M6 Check-off Document.doc	2008-12-10 14:00:57
+205	 	/Archive/SI-500114_A GEP +28VDC CE Cable Check-Off Document.doc	2008-12-15 13:43:08
+206	 	/Archive/SI-500116_B Stand Alone Comb Generator Check-off.doc	2012-06-07 08:45:27
+207	 	/Archive/SI-500116_C Stand Alone Comb Generator Check-off.doc	2012-06-07 08:45:35
+208	 	/Archive/SI-500116_D Stand Alone Comb Generator Check-off.doc	2014-09-26 14:04:19
+209	 	/Archive/SI-500116_E Stand Alone Comb Generator Check-off.doc	2014-10-08 11:14:22
+210	 	/Archive/SI-500116_F Stand Alone Comb Generator Check-off.doc	2015-06-02 16:27:36
+211	 	/Archive/SI-500117_C Orion Shipping Check-off.doc	2009-01-26 16:43:52
+212	 	/Archive/SI-500118_B Standard Shipping Check-off.doc	2008-12-15 13:59:54
+213	 	/Archive/SI-500119_G Shipping Check-off.doc	2014-05-01 09:55:15
+214	 	/Archive/SI-500119_H Shipping Check-off.doc	2015-01-09 10:01:06
+215	 	/Archive/SI-500119_I Shipping Check-off.doc	2017-07-24 11:41:36
+216	 	/Archive/SI-500120_C Standard Shipping Crate Check-off.doc	2009-12-09 10:40:23
+217	 	/Archive/SI-500121_A Stand Alone Comb Shipping Check-off.doc	2008-12-12 16:14:47
+218	 	/Archive/SI-500122_F Streak Tube Incoming Check-off.doc	2012-08-29 15:51:57
+219	 	/Archive/SI-500122_G Streak Tube Incoming Check-off.doc	2014-04-21 15:19:03
+220	 	/Archive/SI-500122_H Streak Tube Incoming Check-off.doc	2015-10-27 09:34:16
+221	 	/Archive/SI-500122_I Streak Tube Incoming Check-off.doc	2016-01-13 09:16:04
+222	 	/Archive/SI-500122_J Streak Tube Incoming Check-off.doc	2017-11-03 09:19:09
+223	 	/Archive/SI-500122_K Streak Tube Incoming Check-off.doc	2019-03-21 13:40:48
+224	 	/Archive/SI-500122_L Streak Tube Incoming Check-off.doc	2019-03-21 13:58:55
+225	 	/Archive/SI-500122_M Streak Tube Incoming Check-off Document.docx	2020-02-07 09:44:59
+226	 	/Archive/SI-500122_N Streak Tube Incoming Check-off Document.docx	2021-03-10 09:10:54
+227	 	/Archive/SI-500123_A Main Check-off Document.doc	2009-04-08 10:44:47
+228	 	/Archive/SI-500124_A GEP EEPROM Settings Document.doc	2010-01-25 09:48:41
+229	 	/Archive/SI-500126_C ROSS 1000_2000 CCD Incoming Inspection Check Off.doc	2016-02-01 09:20:40
+230	 	/Archive/SI-500128_B ProSilica_MCP_Gate IncomingCheck-off Document.doc	2016-01-28 10:15:28
+231	 	/Archive/SI-500129 NoLongerUsed_See500178_ROSS Software CD Check-off.doc	2011-03-28 15:52:57
+232	 	/Archive/SI-500138 Serial to Fiber Adapter Check-off.doc	2011-09-28 11:26:08
+233	 	/Archive/SI-500138_B Serial to Fiber Adapter Check-off.doc	2015-10-07 15:44:31
+234	 	/Archive/SI-500138_C Serial to Optical Converter Adapter Check-off Document.doc	2019-03-20 11:43:12
+235	 	/Archive/SI-500139 System CD_DVD Check-off.doc	2011-11-28 15:29:50
+236	 	/Archive/SI-500140_A Fold mirror (AKA Slide-in mirror) Check-off.doc	2012-06-09 12:35:24
+237	 	/Archive/SI-500141_A SI-TTC-4P Final Assembly Check-off.doc	2015-11-04 13:24:41
+238	 	/Archive/SI-500141_B SI-TTC-4P Final Assembly Check-off.doc	2015-11-04 13:32:36
+239	 	/Archive/SI-500141_C SI-TTC-4P Final Assembly Document.doc	2016-06-13 15:47:16
+240	 	/Archive/SI-500144_A Reticle and Nest Check-off Document.doc	2014-03-10 14:58:49
+241	 	/Archive/SI-500156_B Base Only Offner Check-off (BOOI) Document.doc	2014-03-13 11:38:36
+242	 	/Archive/SI-500164_A DBPM Check-off.doc	2014-11-19 13:53:58
+243	 	/Archive/SI-500165_A DBPM Check-Off.doc	2015-11-24 15:11:57
+244	 	/Archive/SI-500166_A LLNS DIM BASED OSC CABLE TRAVELER.doc	2015-11-25 15:28:35
+245	 	/Archive/SI-500167 SI-DBPM-M605UHV Check-off.doc	2016-04-14 15:31:49
+246	 	/Archive/SI-500168 SI-DBPM-M405V-UHV Check-off.doc	2016-05-27 14:06:47
+247	 	/Archive/SI-500172 SIEPA3P Electrometer Check-off.doc	2019-04-01 12:54:57
+248	 	/Archive/SI-500172_D SIEPA3P Electrometer Check-off.docx	2019-05-21 13:37:12
+249	 	/Archive/SI-500175_A Fiberized Laser Pulse Generator SI-FLPG-650.doc	2017-02-07 09:49:40
+250	 	/Archive/SI-500175_B Fiberized Laser Pulse Generator SI-FLPG-650.docx	2019-07-24 15:28:19
+251	 	/Archive/SI-500178_D CD Check-off.doc	2017-12-06 13:31:06
+252	 	/Archive/SI-500178_E CD Check-off Document.doc	2019-05-13 10:34:56
+253	 	/Archive/SI-500178_E CD Check-off Document.docx	2019-10-17 15:09:00
+254	 	/Archive/SI-500179_A Electronics Enclosure Check-Off.doc	2018-03-01 12:47:20
+255	 	/Archive/SI-500183 CEA HTTP Server Rack Check-off.doc	2018-08-10 11:16:12
+256	 	/Archive/SI-500184 SI-DBPM-M403V Check-off.doc	2019-03-07 14:56:02
+257	 	/Archive/SI-500185_B Trigger Combiner Check Off.doc	2019-03-19 13:44:33
+258	 	/Archive/SI-500186_A GEP EEPROM Settings for LLE-8Speed.doc	2019-03-18 11:33:31
+259	 	/Archive/SI-500187 ROSS Final Data Report Procedure.docx	2019-03-19 14:08:10
+260	 	/Archive/SI-500188_A Shutters and Controller Board IR Mods.docx	2021-01-18 16:59:21
+261	 	/Archive/SI-500190_A 5 GHz Optical Comb Generator Check-off.doc	2019-07-18 13:38:15
+262	 	/Archive/SI-500194_A 24V RossSystemPowerSupply.docx	2019-06-24 13:56:24
+263	 	/Archive/SI-500201_B SI-EP-B4 Electrometer Check-Off.doc	2019-10-01 11:38:16
+264	 	/Archive/SI-500207_A B# Electrometer Check-Off.docx	2021-06-30 09:47:40
+265	 	/Archive/SI-500243_A hDisc Tube Materials Recieved Check-off.doc	2023-03-20 09:05:45
+266	 	/Ballistic Strobe and Triggered Timing Circuit TTC/SI-500141_D SI-TTC-4P Check-Off Document.docx	2020-06-17 09:59:16
+267	 	/Ballistic Strobe and Triggered Timing Circuit TTC/SI-500142_A SI-LSI905-810P Ballistic Strobe Illuminator Check-off.docx	2020-06-24 09:31:46
+268	 	/Cables/SI-500075_C Potted Cathode HV Cable Check-off Document.doc	2016-01-26 13:30:13
+269	 	/Cables/SI-500076_B Ramp Driver Cable Check-off Document.doc	2008-12-12 15:47:32
+270	 	/Cables/SI-500079_B F1, F2, B2 Focus Cable Check-off Document.doc	2008-12-10 14:50:24
+271	 	/Cables/SI-500089_A Display Cable Check-off Document.doc	2008-12-15 13:36:10
+272	 	/Cables/SI-500115_A CCD VPP Power Feedthrough Cable Check-off Document.doc	2008-12-12 16:49:34
+273	 	/Cables/SI-500165_A LLNS DIM BASED OSC CABLE TRAVELER.doc	2015-11-25 15:28:35
+274	 	/Cables/SI-500166_A Cable Inspection Check Off.doc	2016-04-13 13:49:52
+275	 	/Comb Generator/SI-500116_I Stand Alone Comb Generator Check-off (Standalone Comb, SAC).docx	2022-10-20 14:37:50
+276	 	/Comb Generator/SI-500121_C Multi Speed Optical Comb Shipping Check-off.doc	2021-07-15 11:22:54
+277	 	/Comb Generator/SI-500190_C 5_GHz_Optical_Comb_Generator_Check_off.doc	2021-08-09 16:25:31
+278	 	/Comb Generator/Archive/SI-500116_G Stand Alone Comb Generator Check-off.doc	2021-11-04 14:11:08
+279	 	/Comb Generator/Archive/SI-500116_H Stand Alone Comb Generator Check-off (Standalone Comb, SAC).docx	2021-11-04 14:12:56
+280	 	/Comb Generator/Archive/SI-500121_B Stand Alone Comb Shipping Check-off.doc	2022-08-12 11:15:57
+281	 	/Comb Generator/Archive/SI-500190_B_5_GHz_Optical_Comb_Generator_Check_off.doc	2021-04-14 07:38:27
+282	 	/DBPM/SI-500189_C Diamond Beam Position Monitor Check-off Document.docx	2021-12-29 16:21:03
+283	 	/DBPM/SI-500189_D Diamond X-ray Beam Monitor Check-off Document.docx	2023-06-05 13:44:05
+284	 	/DBPM/Archive/SI-500189_B Diamond Beam Position Monitor Check-off Document.docx	2019-11-13 09:42:16
+285	 	/Detectors/SI-500244_A TXC System Shipping Check-off.doc	2023-03-29 16:41:51
+286	 	/DIM Air Box/SI-500165 DIM Air Box 28 Volt Power Cable Check Off Document.doc	2015-09-18 16:29:42
+287	 	/Electrometers/B# Electrometer/SI-500207_B Sydor Beam Monitoring Electrometer Check-Off.docx	2020-12-30 10:31:10
+288	 	/Electrometers/B4 Electrometer/SI-500201_C SI-EP-B4 Electrometer Check-Off.docx	2020-01-14 15:21:30
+289	 	/Electrometers/SIEPA3P Electrometer/SI-500172_E SIEPA3P Electrometer Check-off.docx	2020-07-27 09:16:57
+290	 	/PAD Systems/SI-500212_A PAD Mechanical Chassis Check-off.docx	2023-04-06 14:16:52
+291	 	/PAD Systems/SI-500214_B PAD Electronics Milestone Check-off.docx	2022-11-19 13:23:07
+292	 	/PAD Systems/Archive/SI-500214_A PAD Electronics Milestone Check-off.docx	2021-12-14 09:29:44
+293	 	/PAD Systems/KECK/Electronics Module MS#2.docx	2021-12-14 10:41:40
+294	 	/PAD Systems/KECK/Mechanical Module MS#1.doc.docx	2021-12-14 10:32:06
+295	 	/PAD Systems/KECK/SI-500198_A KeckPadSubModuleAssembly.docx	2019-10-25 10:54:23
+296	 	/PAD Systems/MegaPAD/SI-500xxx_A MegaPadSubModuleAssembly.docx	2020-11-17 11:50:23
+297	 	/PAD Systems/MMPAD/SI-500202_A MMPadSubModuleAssembly.docx	2020-02-17 09:34:10
+298	 	/PAD Systems/MMPAD/SI-500203_A MMPadHeadAssembly.docx	2020-02-18 11:37:38
+299	 	/Power Supplies/SI-500014_C 28V ROSS PS with SI800 PS checkoff.docx	2019-06-24 11:43:48
+300	 	/Power Supplies/SI-500192_A 28V ROSS PS (LLE version).docx	2019-06-24 13:55:09
+301	 	/Power Supplies/SI-500193_A 28V ROSS PS.docx	2019-06-24 13:55:41
+302	 	/Power Supplies/SI-500194_C-SI-100897_24V_PSU_Checkoff.docx	2022-06-17 10:21:19
+303	 	/Power Supplies/Archive/SI-500191_A 28V RossSystemPowerSupplyWithSI-1000PowerSupply.docx	2019-10-23 09:08:22
+304	 	/Power Supplies/Archive/SI-500191_B 28V ROSS Power Supply with SI-1000 Power Supply.docx	2019-08-13 16:46:10
+305	 	/Power Supplies/Archive/SI-500191_B ROSS 28V PS with SI-1000 CCD PS checkoff.docx	2019-10-23 09:46:14
+306	 	/Power Supplies/Archive/SI-500194_B 24V ROSS PS.docx	2022-06-16 16:41:40
+307	 	/psGOI/SI-500169_A psGOI parent check off.doc	2016-06-28 14:07:47
+308	 	/psGOI/SI-500170_A psGOI Mechanical Milestone.doc	2016-06-28 14:19:00
+309	 	/psGOI/SI-500173_A psGOI power trigger box check off.doc	2017-01-27 16:46:52
+310	 	/psGOI/SI-500174_A psGOI Shipping Check-off Document.doc	2017-01-30 15:56:38
+311	 	/ROSS/Cathode Power Supply (CPS)/SI-500015_H Cathode PS Check-off Document.docx	2020-01-07 12:01:51
+312	 	/ROSS/Cathode Power Supply (CPS)/SI-500075_C Potted Cathode HV Cable Check-off Document.doc	2016-01-26 13:30:13
+313	 	/ROSS/GEP/SI-500086_A GEP Low Voltage Board Check-off Document.doc	2008-12-15 13:45:14
+314	 	/ROSS/GEP/SI-500087_A GEP 8200 HV Board Check-off Document.doc	2008-12-15 13:42:29
+315	 	/ROSS/GEP/SI-500110_A Fan Assembly Check-off Document.doc	2008-12-15 13:40:10
+316	 	/ROSS/GEP/SI-500111_A Power On LED Check-off Document.doc	2008-12-12 15:34:50
+317	 	/ROSS/GEP/SI-500124_B GEP EEPROM Settings Document.doc	2019-10-17 11:26:07
+318	 	/ROSS/GEP/SI-500195_A GEP cable build-sheet check-off.docx	2019-10-16 15:06:17
+319	 	/ROSS/OCM/SI-500001_A OCM Logic Board  Check-off.doc	2010-04-22 11:51:36
+320	 	/ROSS/OCM/SI-500002_D Aft Module Check-off.docx	2020-10-28 10:36:34
+321	 	/ROSS/OCM/SI-500006_F ROSS Imaging Optic (Offner assembly) check-off.docx	2023-11-17 08:41:56
+322	 	/ROSS/OCM/SI-500007_F Internal Comb Generator Check-off.docx	2020-01-07 10:02:38
+323	 	/ROSS/OCM/SI-500008_G Fore Module Check-off.docx	2023-04-28 10:21:39
+324	 	/ROSS/OCM/SI-500009_D XYZ Theta Stack Check-off.docx	2023-11-30 14:35:51
+325	 	/ROSS/OCM/SI-500013_D Motorized 2 Mirror & Iris Check-off.docx	2022-09-01 11:30:12
+326	 	/ROSS/OCM/SI-500020_D_SI-100043_12-Axis_Stepper_Controller_Checkoff.docx	2022-12-08 16:22:30
+327	 	/ROSS/OCM/SI-500024_F Free Space Input Check-off Document.docx	2023-05-22 13:40:01
+328	 	/ROSS/OCM/SI-500045_F Precision Flat Field Head Check-off.docx	2020-04-02 11:05:29
+329	 	/ROSS/OCM/SI-500047_D Data Head Check-Off.docx	2020-10-28 10:18:19
+330	 	/ROSS/OCM/SI-500140_A Fold mirror (AKA Slide-In Mirror_ Check-off.doc	2013-04-18 10:46:15
+331	 	/ROSS/OCM/Archive/SI-500008_F Fore Module Check-off.docx	2022-12-07 13:36:19
+332	 	/ROSS/OCM/Archive/SI-500013_C Motorized 2 Mirror & Iris Check-off.docx	2020-11-23 11:40:22
+333	 	/ROSS/ROSS 1000/SI-500128_A ROSS 1000 Check-off Document.doc	2015-05-29 16:26:09
+334	 	/ROSS/ROSS 1000/SI-500130_A ROSS 1000 Mechanical Chassis Check-Off.doc	2011-03-30 11:01:04
+335	 	/ROSS/ROSS 1000/SI-500130_B ROSS 1000 Mechanical Chassis Check-Off.doc	2023-01-19 14:52:30
+336	 	/ROSS/ROSS 1000/SI-500131_A ROSS 1000 Sweep Module Check-Off Document.doc	2023-03-15 08:31:42
+337	 	/ROSS/ROSS 1000/SI-500134_C ROSS 1000 Logic Module Check-Off Document.doc	2022-11-17 10:56:24
+338	 	/ROSS/ROSS 1000/SI-500135_A ROSS 1000 Electronics Milestone Check-Off Document.doc	2011-04-14 13:50:26
+339	 	/ROSS/ROSS 1000/SI-500136_A ROSS 1000 Synchroscan Module Check-Off Document.doc	2011-04-27 13:25:36
+340	 	/ROSS/ROSS 1000/SI-500137_D ROSS 1000 Shipping Check-off Document.doc	2023-08-11 15:09:31
+341	 	/ROSS/ROSS 1000/SI-500143_B ROSS 1000 Low Voltage Board Check-Off Document.doc	2023-09-05 09:24:13
+342	 	/ROSS/ROSS 1000/SI-500247_A ROSS 1000 Logic Board Check.docx	2023-05-02 13:41:39
+343	 	/ROSS/ROSS 1000/SI-500248_A ROSS 1000 HV Board Check.docx	2023-09-05 10:06:47
+344	 	/ROSS/ROSS 1000/SI-500249_A ROSS 1000 Timing Board Check.docx	2023-09-05 10:09:56
+345	 	/ROSS/ROSS 1000/OLD/ROSS 1000 Shipping Check-off Document SI-500137 RevA.doc	2011-05-23 15:38:07
+346	 	/ROSS/ROSS 1000/OLD/SI-500134_B ROSS 1000 Logic Module Check-Off Document.doc	2013-01-22 16:38:37
+347	 	/ROSS/ROSS 1000/OLD/SI-500137_C ROSS 1000 Shipping Check-off Document.doc	2022-12-14 14:35:55
+348	 	/ROSS/ROSS 2000/SI-500146_C STX Tube Incoming Check-off Document.doc	2019-04-30 08:45:38
+349	 	/ROSS/ROSS 2000/SI-500150_B ROSS 2000 Shipping Check-off Document.doc	2014-06-10 15:09:16
+350	 	/ROSS/ROSS 2000/SI-500150_C ROSS 2000 Shipping Check-off Document.doc	2022-12-02 16:28:32
+351	 	/ROSS/ROSS 2000/SI-500151 RevD ROSS 2000 Mechanical Chassis Check-Off.docx	2022-04-25 09:41:01
+352	 	/ROSS/ROSS 2000/SI-500152_C ROSS 2000 System Check-off Document.doc	2022-06-13 11:09:46
+353	 	/ROSS/ROSS 2000/SI-500153_A ROSS 2000 Sweep Module Check-Off Document.doc	2013-06-14 15:42:57
+354	 	/ROSS/ROSS 2000/SI-500154_C ROSS 2000 Logic Module Check-Off Document.doc	2019-10-30 09:29:36
+355	 	/ROSS/ROSS 2000/SI-500155_B ROSS 2000 EEPROM Settings Document.doc	2022-06-13 10:10:33
+356	 	/ROSS/ROSS 2000/SI-500157_B ROSS 1000_2000 NetBurner Settings Document.doc	2022-12-21 14:03:40
+357	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 EEPROM Settings Document SI-500155 RevA.doc	2014-09-05 12:47:04
+358	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 Logic Module Check-Off Document SI-500154 RevB.doc	2019-10-30 09:09:26
+359	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 Mechanical Chassis Check-Off SI-500151 RevA.doc	2013-06-11 09:06:38
+360	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 Mechanical Chassis Check-Off SI-500151 RevB (RYAN).doc	2016-01-18 16:18:54
+361	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 Mechanical Chassis Check-Off SI-500151 RevB.doc	2014-07-25 15:04:28
+362	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 Mechanical Chassis Check-Off SI-500151 RevD.doc	2018-06-01 09:31:44
+363	 	/ROSS/ROSS 2000/Old Revs/ROSS 2000 System Check-off Document SI-500152 RevA.doc	2013-06-11 16:38:07
+364	 	/ROSS/ROSS 2000/Old Revs/SI-500152_B ROSS 2000 System Check-off Document.doc	2014-07-22 15:01:17
+365	 	/ROSS/ROSS 2000/Old Revs/SI-500157_A ROSS 2000 NetBurner Settings Document.doc	2022-06-13 10:13:18
+366	 	/ROSS/ROSS 2000/Old Revs/STX Tube Incoming Check-off Document SI-500146 RevA.doc	2015-05-29 15:39:46
+367	 	/ROSS/ROSS 2000/Old Revs/STX Tube Incoming Check-off Document SI-500146 RevB.doc	2018-12-03 15:52:19
+368	 	/ROSS/ROSS 2000/Old Revs/STX Tube Incoming Check-off Document SI-500146 RevC.doc	2019-04-23 11:22:34
+369	 	/ROSS/ROSS 2000/Old Revs/STX Tube Incoming Check-off Document SI-500146 RevC_PRELIM.doc	2019-04-23 11:22:34
+370	 	/Streak Tubes/SI-500017_P Streak Tube Potting and COMA Aseembly Check-Off.docx	2021-04-15 08:43:45
+371	 	/Streak Tubes/SI-5000196_A Streak Tube Depotting.docx	2022-02-09 11:30:58
+372	 	/Streak Tubes/SI-500122_P_Streak_Tube_ Incoming_Check_off_Document.docx	2022-07-19 15:47:19
+373	 	/Streak Tubes/Archive/SI-500122_O_Streak_Tube_ Incoming_Check_off_Document.docx	2021-04-15 08:24:23
+374	 	/System Binder Required Documentation/SI-500002 Aft Module Check-Off.doc	2008-08-21 14:58:10
+375	 	/System Binder Required Documentation/SI-500003_H System Check-off.doc	2018-10-01 15:31:29
+376	 	/System Binder Required Documentation/SI-500003_J System Check-off Document.doc	2020-06-26 14:10:50
+377	 	/System Binder Required Documentation/SI-500007 Comb Generator Check Off.doc	2008-09-12 15:12:17
+378	 	/System Binder Required Documentation/SI-500008 Fore Module Check-off.doc	2008-08-21 15:00:23
+379	 	/System Binder Required Documentation/SI-500010 Electronics Rail Check-off.doc	2008-08-26 14:41:38
+380	 	/System Binder Required Documentation/SI-500011 COMA Check-Off.doc	2008-08-21 14:59:12
+381	 	/System Binder Required Documentation/SI-500012 Base Chassis Check-Off.doc	2008-08-21 14:58:39
+382	 	/System Binder Required Documentation/SI-500014 28V PS Check-off.doc	2008-08-21 14:57:31
+383	 	/System Binder Required Documentation/SI-500019 Shipping Case Check-off.doc	2009-03-31 12:57:28
+384	 	/System Binder Required Documentation/SI-500047 Data Head Check-off.doc	2008-08-21 15:00:01
+385	 	/System Binder Required Documentation/SI-500080 Thermo Cube Chiller Package Check-off.doc	2008-08-21 15:00:38
+386	 	/System Binder Required Documentation/SI-500082 Computer & Software Check-off.doc	2008-08-21 14:56:47
+387	 	/System Binder Required Documentation/SI-500118 Standard Shipping Check-off.doc	2008-08-26 14:45:37
+388	 	/System Binder Required Documentation/SI-500120 Standard Shipping Crate Check-off.doc	2008-09-12 15:16:55
+389	 	/T4U/SI-500247_C T4U_TestandCal_CheckOff.docx	2023-09-27 15:28:43
+390	 	/Templates/SI-500003_I System Check-off Document.doc	2018-10-19 15:39:21
+391	 	/Templates/ARCHIVE/SI-500003CheckOffTemplateRevB.docx	2019-05-21 13:35:42
+392	 	/Templates/ARCHIVE/Template for Check-off Document SI500003_OBSOLETE.doc	2011-09-28 10:58:42
+393	 	/VCCD Check-Offs/SI-500180_A VCCD Head Check-off Document.doc	2018-05-29 15:09:20
+394	 	/VCCD Check-Offs/SI-500181_A VCCD Controller Check-off Document.doc	2018-05-29 15:13:30

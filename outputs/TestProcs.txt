@@ -1,0 +1,117 @@
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/Documentation/Testing/Test Procedures, Test Data Sheets and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate
+1	 	/BOOI_WithFocusAdjustment_Signoff.doc	2010-03-26 15:43:50
+2	 	/CAT_Template.doc	2005-02-09 11:33:05
+3	 	/CCJ Test Procedure_SI-400384_A.doc	2013-10-23 09:07:20
+4	 	/Electronic Assembly Testing OCM (Generic) Data Sheet SI-400040.doc	2008-03-26 14:20:49
+5	 	/Electronic Assembly Testing.xls	2008-01-18 11:05:47
+6	 	/Electronics Rail Test Data SI-400044.doc	2011-03-01 13:51:04
+7	 	/ElectronicsRail_Avalanche_MonitorOut Test Procedure SI-400137.doc	2009-07-28 14:53:39
+8	 	/FLPG_Tuning_Protocol SI-400854.docx	2019-03-08 16:11:48
+9	 	/GEP Board level testing.doc	2007-07-25 17:56:41
+10	 	/GEP P510 Calibration Template.doc	2004-12-09 13:00:18
+11	 	/GEP_and_OCM_Firmware_Upgrade_Instructions_Using_RemoteDesktop_WindowsPC-xxx.docx	2015-11-12 11:18:22
+12	 	/GEP_Firmware_Upgrade_Instructions SI-400524.docx	2017-12-27 11:26:56
+13	 	/GEP_Firmware_Upgrade_Instructions SI-400524.pdf	2015-03-17 16:03:38
+14	 	/HV Cathode Cable Tst (obsolete).doc	2007-04-13 10:11:22
+15	 	/MCP Test Requirements_SI-400501_A.doc	2014-12-08 13:49:43
+16	 	/MCP_Incoming_Test_Procedure_SI-400501_B.docx	2018-02-23 15:40:44
+17	 	/Obsolete_CCD Incoming Test Procedure SI-400007 RevC.doc	2009-01-21 15:19:03
+18	 	/RossAppReleaseProc.doc	2008-01-22 13:55:00
+19	 	/SI-400711 ROSS ST-DS Gate Module Test Procedure RevD Circulation.docx	2020-12-09 14:10:01
+20	 	/SI-400711 ROSS ST-DS Gate Module Test Procedure RevD Circulation.pdf	2020-12-09 10:20:45
+21	 	/SI-400715_Kentech_Hi-FieldGateModule_Tube_TestingProcedure_revD.docx	2017-09-13 16:04:25
+22	 	/SI-400736 AWSS Battery System Test ProcedureRevA.doc	2017-06-15 10:59:18
+23	 	/SI-400970_HighVoltageBoardTestPlan.docx	2022-04-07 11:33:46
+24	 	/SI-400XXX RevA Spectral Instruments CCD comparison.docx	2015-11-05 13:49:50
+25	 	/SI-400xxx ROSS Final Data Report Procedure.docx	2019-03-19 13:54:04
+26	 	/SI-400XXXRevA High Field GCPS Requirements.docx	2016-01-04 10:03:14
+27	 	/SI-400xxxrevA ROSS 1000 and ROSS 2000 Dynamic Range Test Plan.doc	2014-07-25 10:17:11
+28	 	/SI-401166 Active Trigger Combiner Test ProcedureRevA.doc	2022-10-14 10:49:22
+29	 	/SI-401271 5_10GHzCombTestingProcedure.docx	2023-06-29 10:10:28
+30	 	/SI-401284 HV_Cable_Setup.doc	2016-07-28 12:38:49
+31	 	/SI-401307 Motorized Secondary Mirror Iris Motor Testing.doc	2023-12-01 08:34:25
+32	 	/SI-500205_HighVoltageBoardChecklist.xlsx	2022-04-07 11:34:27
+33	 	/Streak Tube Potting Procedure.doc	2012-11-20 09:09:54
+34	 	/Streak Tube Qualification Procedure SI-400006 RevB.doc	2009-01-28 12:47:10
+35	 	/System 12 Axis Control Testing 1 of.doc	2007-03-05 09:59:48
+36	 	/TTC Final Checklist.xls	2015-11-11 09:14:29
+37	 	/AFT Module Test & Data/AFT Module Test Data SI-400042.doc	2008-03-26 14:59:21
+38	 	/AFT Module Test & Data/Motor Cable Fan Out Test Data SI-400050.doc	2008-05-27 14:39:41
+39	 	/Archive/SI-400711 ROSS ST-DS Gate Module Test Procedure RevB.docx	2019-03-19 10:21:50
+40	 	/Archive/SI-400XXX RevA Kentech Cathode Pulser Test Procedure (2).docx	2016-08-14 14:04:33
+41	 	/Archive/SI-400XXX RevA Kentech Cathode Pulser Test Procedure.docx	2016-08-10 11:08:20
+42	 	/Archive/SI-400XXX RevA MCP and Gate Module Incoming Inspection.docx	2016-01-28 15:04:29
+43	 	/Archive/SI-400XXXRevA High Field GCPS Requirements.docx	2016-01-04 10:03:14
+44	 	/Camera Flexure Characterization/LowerFlex_Sys40.xls	2011-06-13 14:57:11
+45	 	/Comb Generator Test & Data SI-400038 & -39/Comb Gen Power Supply Test Procedure SI-400048.doc	2008-06-16 09:47:43
+46	 	/Comb Generator Test & Data SI-400038 & -39/Comb Generator Power Supply Data Test Sheet SI-400049.doc	2008-08-20 10:17:58
+47	 	/CPS Test Procedure & Data/CPS Data Test  Sheet Pre Potting SI-400087.doc	2008-09-26 07:55:51
+48	 	/CPS Test Procedure & Data/CPS Test Procedure Pre -Potting SI-400086.doc	2009-01-30 10:18:59
+49	 	/CPS Test Procedure & Data/SI-400850 Procedure for Post-Sweep Gated Cathode Testing_revB .docx	2020-04-15 12:36:02
+50	 	/CPS Test Procedure & Data/SI-400906 - CPS DC Test Procedure.docx	2023-11-16 14:15:24
+51	 	/CPS Test Procedure & Data/SI-400913 - PGCPS Pulser Board Testing.docx	2023-11-17 15:59:04
+52	 	/CPS Test Procedure & Data/SI-401092_CPS_Photocell_TestProcedure.docx	2021-11-30 12:28:53
+53	 	/CPS Test Procedure & Data/YF_images_for_SI-400850.pptx	2020-04-15 12:36:04
+54	 	/GEP Board level testing/8200 & 5100 GEP Logic Board level testing 3.doc	2010-03-04 15:51:48
+55	 	/GEP Board level testing/8200 & 5100 GEP Logic Board level testing ver 0.5.doc	2016-01-11 11:06:51
+56	 	/GEP Board level testing/GEP Firmware Programming SI-400017_B.doc	2017-12-28 10:16:28
+57	 	/GEP Board level testing/GEP Firmware Programming SI-400017_B.pdf	2017-12-28 10:16:01
+58	 	/GEP Board level testing/GEP Programming Flash SI-400017.doc	2010-03-03 10:22:25
+59	 	/GEP Board level testing/GEP Programming Flash SI-400017.pdf	2015-03-17 16:00:28
+60	 	/GEP Board level testing/GEP Programming Flash SI-400017_A.doc	2017-12-28 10:08:03
+61	 	/GEP Board level testing/GEP Programming Flash SI-400017_B.doc	2022-08-23 17:56:41
+62	 	/GEP Board level testing/SI-401226_GEP_Test_Procedure_For_GCPS_50_50.doc	2023-03-30 16:50:15
+63	 	/GEP Board level testing/Archive Files/GEP Board level testing 1.doc	2008-01-14 17:16:39
+64	 	/GEP Board level testing/Archive Files/GEP Board level testing 2.doc	2010-02-12 09:23:37
+65	 	/GEP Board level testing/Archive Files/GEP Board level testing.doc	2007-07-25 17:56:41
+66	 	/GEP HV Test Procedure 5100/Calibration and Verification 5100.doc	2009-02-16 08:49:45
+67	 	/GEP HV Test Procedure 8200/GEP Calibration_and Verification_GEP011( 2 0f 2) SI-400045.doc	2010-03-03 11:03:52
+68	 	/GEP HV Test Procedure 8200/GEP Programming, Calib. & Verif. 1 of 2 SI-400045.doc	2010-03-03 10:37:49
+69	 	/GEP HV Test Procedure 8200/Archive Versions/Calibration_ and_verification_GEP011.doc	2007-10-18 16:33:02
+70	 	/GEP HV Test Procedure 8200/Archive Versions/GEP_Programming.doc	2007-11-06 16:28:39
+71	 	/Kentech_Gate_Module/BreakoutBox_Connections_GateModule.jpeg	2017-03-22 17:26:32
+72	 	/Kentech_Gate_Module/BreakOutBox_Connections_NoGateModule.jpeg	2017-03-22 17:27:38
+73	 	/Kentech_Gate_Module/ClosedUpGateModule.jpeg	2017-03-22 17:26:00
+74	 	/Kentech_Gate_Module/GateModule_Wiring_A.jpeg	2017-03-23 11:04:05
+75	 	/Kentech_Gate_Module/GateModule_Wiring_B.jpeg	2017-03-23 11:04:26
+76	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400023 OCM Electrical Testing 1 of 5.doc	2022-11-30 13:11:44
+77	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400024 OCM Electrical Testing 2 of 5.doc	2007-08-14 10:40:43
+78	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400025 OCM Electrical Testing 3 of 5.doc	2007-08-14 10:42:41
+79	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400026 OCM Electrical Testing 4 of 5.doc	2007-08-15 11:00:29
+80	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400027 OCM Electrical Testing 5 of 5.doc	2007-04-09 11:09:43
+81	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400038 OCM Elec Testing Data Sheet (Level 1).doc	2019-07-18 09:28:29
+82	 	/OCM Elect. Test & Data Level 1 & 2 SI-400038, SI-400039/SI-400039 OCM Elec Testing Data Sheet (Level 2).doc	2008-02-05 13:04:32
+83	 	/Photek_GateModule_IncomingInspection/10MegProbe.jpg	2015-05-15 11:29:13
+84	 	/Photek_GateModule_IncomingInspection/DG645.jpg	2015-05-15 11:29:31
+85	 	/Photek_GateModule_IncomingInspection/GateModule_TopView.jpg	2015-05-15 11:28:07
+86	 	/Photek_GateModule_IncomingInspection/Scope_20ms.jpg	2015-05-15 11:28:56
+87	 	/Photek_GateModule_IncomingInspection/Scope_20ns.jpg	2015-05-15 11:28:22
+88	 	/Photek_GateModule_IncomingInspection/Scope_5us.jpg	2015-05-15 11:28:40
+89	 	/SIEPA3P Electrometer/A3P_Calibration_Instructions_viaRC_June2021.docx	2021-06-29 10:37:04
+90	 	/SIEPA3P Electrometer/SIEPA3P Calibration Data SI-400703.xls	2017-02-13 12:29:05
+91	 	/SIEPA3P Electrometer/SIEPA3P Calibration Procedure SI-400702 (DRAFT).docx	2017-02-13 13:30:15
+92	 	/SIEPA3P Electrometer/SIEPA3P micro SD Card Creation SI-400704(DRAFT).docx	2017-02-13 13:06:02
+93	 	/SIEPA3P Electrometer/SIEPA3P Register Map and IOC PVs SI-400705.xlsx	2017-02-06 16:18:36
+94	 	/Streak Tubes/P510 PSU OA SN 410/25lpmmSpatialResolution.JPG	2008-12-19 09:46:09
+95	 	/Streak Tubes/P510 PSU OA SN 410/CenterImageQuality.JPG	2008-12-19 09:46:09
+96	 	/Streak Tubes/P510 PSU OA SN 410/LeftEdgeImageQuality.JPG	2008-12-19 09:46:09
+97	 	/Streak Tubes/P510 PSU OA SN 410/Noise.JPG	2008-12-19 09:46:09
+98	 	/Streak Tubes/P510 PSU OA SN 410/RadiantSensitivityP510PSUOAsn410.PDF	2008-12-19 09:46:09
+99	 	/Streak Tubes/P510 PSU OA SN 410/RightImageQuality.JPG	2008-12-19 09:46:09
+100	 	/Streak Tubes/P510 PSU OA SN 410/SpatialResolutionContrast.JPG	2008-12-19 09:46:08
+101	 	/Streak Tubes/P510PSU OA SN  741/25lpmmSpatialResolution.JPG	2008-12-19 09:47:42
+102	 	/Streak Tubes/P510PSU OA SN  741/25lpmmSpatialResolutionContrast.JPG	2008-12-19 09:47:42
+103	 	/Streak Tubes/P510PSU OA SN  741/CenterImageQuality.JPG	2008-12-19 09:47:42
+104	 	/Streak Tubes/P510PSU OA SN  741/LeftEdgeImageQuality.JPG	2008-12-19 09:47:42
+105	 	/Streak Tubes/P510PSU OA SN  741/Noise.JPG	2008-12-19 09:47:43
+106	 	/Streak Tubes/P510PSU OA SN  741/RadiantSensitivityP510PSUOAsn741.PDF	2008-12-19 09:47:43
+107	 	/Streak Tubes/P510PSU OA SN  741/RightEdgeImageQuality.JPG	2008-12-19 09:47:42
+108	 	/Streak Tubes/P510PSUOAsn71/25lpmmSpatialResolution.bmp	2009-06-05 04:25:16
+109	 	/Streak Tubes/P510PSUOAsn71/CenterImageQuality.bmp	2009-06-05 04:36:52
+110	 	/Streak Tubes/P510PSUOAsn71/LeftEdgeImageQuality.bmp	2009-06-05 04:39:02
+111	 	/Streak Tubes/P510PSUOAsn71/Noise.bmp	2009-06-05 04:23:56
+112	 	/Streak Tubes/P510PSUOAsn71/RadiantSensitivityP510PSUOAsn71.PDF	2009-06-05 06:10:30
+113	 	/Streak Tubes/P510PSUOAsn71/RightEdgeImageQuality.bmp	2009-06-05 04:41:14
+114	 	/Streak Tubes/P510PSUOAsn71/SpatialResolutionContrast.bmp	2009-06-05 04:32:12

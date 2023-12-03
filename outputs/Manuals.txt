@@ -1,0 +1,707 @@
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/ and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/ and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate
+1	 	Documentation/Manuals/10GHzComb_RackMount/SI_401081_RevE_10GHz_RackMount_Comb_UserManual.docx	2023-03-30 16:26:57
+2	 	Documentation/Manuals/10GHzComb_RackMount/SI_401081_RevE_10GHz_RackMount_Comb_UserManual.pdf	2023-03-30 16:27:09
+3	 	Documentation/Manuals/10GHzComb_RackMount/_use_401081_instead_SI_401059_10GHz_RackMount_Comb_UserManual.pdf	2021-04-23 10:48:53
+4	 	Documentation/Manuals/10GHzComb_RackMount/_use_408081_instead_SI_401059_10GHz_RackMount_Comb_UserManual.docx	2021-04-23 10:48:38
+5	 	Documentation/Manuals/10GHzComb_RackMount/Archive/SI_401081_RevB_Advanced_10GHz_RackMount_Comb_UserManual.docx	2021-08-11 16:31:15
+6	 	Documentation/Manuals/10GHzComb_RackMount/Archive/SI_401081_RevC_Advanced_10GHz_RackMount_Comb_UserManual.docx	2021-08-19 16:17:34
+7	 	Documentation/Manuals/10GHzComb_RackMount/Archive/SI_401081_RevC_Advanced_10GHz_RackMount_Comb_UserManual.pdf	2021-08-19 16:17:09
+8	 	Documentation/Manuals/10GHzComb_RackMount/Archive/SI_401081_RevD_Advanced_10GHz_RackMount_Comb_UserManual.docx	2023-03-03 09:34:49
+9	 	Documentation/Manuals/10GHzComb_RackMount/Archive/SI_401081_RevD_Advanced_10GHz_RackMount_Comb_UserManual.pdf	2023-03-03 09:34:44
+10	 	Documentation/Manuals/AppNotes/5100 Operation Verification.doc	2015-08-04 13:33:10
+11	 	Documentation/Manuals/AppNotes/5100 Operation Verification_YF_RemoveMePleaseWhenDone.doc	2015-08-04 16:56:49
+12	 	Documentation/Manuals/AppNotes/ActonSpectrometerPlugIn_32bit_AppNote_SI-400189_C.doc	2014-06-11 17:54:30
+13	 	Documentation/Manuals/AppNotes/ActonSpectrometerPlugIn_64bit_AppNote_SI-400189_D.doc	2022-04-29 10:54:56
+14	 	Documentation/Manuals/AppNotes/ActonSpectrometerPlugIn_64bit_AppNote_SI-400189_D.pdf	2022-04-29 10:54:34
+15	 	Documentation/Manuals/AppNotes/ActonSpectrometerPlugIn_AppNote_SI-400189_C.pdf	2014-06-11 17:54:24
+16	 	Documentation/Manuals/AppNotes/AutoBias_AppNote_SI-400180_B.doc	2013-10-17 08:52:29
+17	 	Documentation/Manuals/AppNotes/AWE_GatedCathode_AppNote_SI-400796_B.doc	2018-03-14 11:10:06
+18	 	Documentation/Manuals/AppNotes/AWE_GatedCathode_AppNote_SI-400796_B.pdf	2018-03-14 11:09:59
+19	 	Documentation/Manuals/AppNotes/Deconvolution_App_Note_SI-400378_A.doc	2013-10-17 09:08:10
+20	 	Documentation/Manuals/AppNotes/Duke_MCP_PMT_SRS400_AppNote_SI-400202_A.doc	2013-10-17 08:53:48
+21	 	Documentation/Manuals/AppNotes/F Number vs Motor Position AppNote SI-401147.pdf	2022-07-21 17:32:44
+22	 	Documentation/Manuals/AppNotes/F Number vs Motor Position AppNote SI-401147_B.doc	2022-09-21 10:17:14
+23	 	Documentation/Manuals/AppNotes/Gated Cathode Testing Procedure-GCPS-50-50.docx	2018-02-26 18:21:05
+24	 	Documentation/Manuals/AppNotes/Gated Cathode Testing Procedure-GCPS-50-50_MZEDIT.docx	2018-02-27 17:20:36
+25	 	Documentation/Manuals/AppNotes/GatedCathodeSelectionGuide_SI-400372_D.doc	2020-07-06 16:07:19
+26	 	Documentation/Manuals/AppNotes/GatedCathodeSelectionGuide_SI-400372_D.pdf	2020-07-06 16:07:13
+27	 	Documentation/Manuals/AppNotes/GatedCathode_AppNote_SI-400363_B.doc	2014-07-22 11:13:24
+28	 	Documentation/Manuals/AppNotes/GatedCathode_AppNote_SI-400363_B.pdf	2014-07-22 11:13:17
+29	 	Documentation/Manuals/AppNotes/GEP_Firmware_Upgrade_Instructions SI-400524.docx	2017-12-27 11:26:56
+30	 	Documentation/Manuals/AppNotes/LatchedBias_AppNote_SI-400174_C.pdf	2014-07-22 14:49:01
+31	 	Documentation/Manuals/AppNotes/LatchedBias_AppNote_SI-400174_D.docx	2018-12-14 11:52:38
+32	 	Documentation/Manuals/AppNotes/McPhersonSpectrometerPlugIn_AppNote_SI-400242_A.doc	2013-10-17 08:55:51
+33	 	Documentation/Manuals/AppNotes/Operating Gated Cathode at Lower Cathode Voltages SI-4xxxxxx_A.docx	2019-04-15 13:42:13
+34	 	Documentation/Manuals/AppNotes/Performance of the Ross1000 App Note  SI-401137.docx	2022-05-12 13:52:19
+35	 	Documentation/Manuals/AppNotes/PGCPS_Plugin_Setup_AppNote_SI-400343_A.doc	2013-10-17 09:04:56
+36	 	Documentation/Manuals/AppNotes/PGCPS_Plugin_Setup_AppNote_SI-400343_A.pdf	2015-12-08 11:00:43
+37	 	Documentation/Manuals/AppNotes/PrincetonInstruments_IsoPlane_StreakCamera_AppNote_Si-400773.docx	2017-12-07 14:01:53
+38	 	Documentation/Manuals/AppNotes/PrincetonInstruments_IsoPlane_StreakCamera_AppNote_Si-400773.pdf	2017-12-07 14:01:35
+39	 	Documentation/Manuals/AppNotes/Prosilica_on_RossApp_S_ Rough_Notes_Setup.doc	2017-11-06 11:51:33
+40	 	Documentation/Manuals/AppNotes/PulsedGatedCathode_PG150_200S_AppNote_SI-400187_A.doc	2013-10-17 08:56:48
+41	 	Documentation/Manuals/AppNotes/PulsedGatedCathode_PG400-200S_AppNote_SI-400344_A.doc	2013-10-17 09:04:04
+42	 	Documentation/Manuals/AppNotes/PulsedGatedCathode_PG400-200S_AppNote_SI-400344_A.pdf	2015-12-08 11:02:47
+43	 	Documentation/Manuals/AppNotes/PulsedGatedCathode_TestResults_SI-400381.doc	2014-06-23 08:24:53
+44	 	Documentation/Manuals/AppNotes/ROSS _Ungated_Systems_AppNote_Retrace_and_Timing_SI-401185.doc	2022-11-20 15:07:20
+45	 	Documentation/Manuals/AppNotes/ROSS _Ungated_Systems_AppNote_Retrace_and_Timing_SI-401185_B.docx	2022-11-21 12:53:19
+46	 	Documentation/Manuals/AppNotes/ROSS _Ungated_Systems_AppNote_Retrace_and_Timing_SI-401185_B.pdf	2022-11-21 12:52:18
+47	 	Documentation/Manuals/AppNotes/ROSS _Ungated_Systems_AppNote_Retrace_and_Timing_SI-401185_B_MZ_Edits.docx	2022-11-21 09:43:39
+48	 	Documentation/Manuals/AppNotes/ROSS1000_ WIP_Triggering_Options_AppNote_SI-400181_A - Copy.doc	2022-10-28 17:31:59
+49	 	Documentation/Manuals/AppNotes/RossApp 1000_Setting _Slow_Bias_ SI-400551_A.doc	2015-06-02 13:52:09
+50	 	Documentation/Manuals/AppNotes/RossApp Rotation_Correction and GeoCal SI-400507_A.doc	2015-01-09 11:43:14
+51	 	Documentation/Manuals/AppNotes/RossApp Rotation_Correction and GeoCal SI-400507_A.pdf	2015-01-09 11:43:10
+52	 	Documentation/Manuals/AppNotes/RossAppConfigurationChangesForFirmwareUpgradeTo3_43 AppNote_SI-400395_B.doc	2013-11-21 10:23:06
+53	 	Documentation/Manuals/AppNotes/RossAppConfigurationChangesForFirmwareUpgradeTo3_43 AppNote_SI-400395_B.pdf	2013-12-17 09:38:04
+54	 	Documentation/Manuals/AppNotes/Selecting CCD in RossApp_AppNote_SI-400379_E.docx	2022-06-30 09:38:00
+55	 	Documentation/Manuals/AppNotes/Selecting CCD in RossApp_AppNote_SI-400379_E.pdf	2022-04-29 10:19:14
+56	 	Documentation/Manuals/AppNotes/SI-400426revC P820 B1 Shutter Electrode Test Internal Report.doc	2014-05-14 10:56:31
+57	 	Documentation/Manuals/AppNotes/SI-400426revC P820 B1 Shutter Electrode Test Internal Report.pdf	2014-05-14 10:56:21
+58	 	Documentation/Manuals/AppNotes/SI-400426revD P820 B1 Shutter Electrode Test Internal Report.doc	2016-02-09 14:12:49
+59	 	Documentation/Manuals/AppNotes/SI-400426revD P820 B1 Shutter Electrode Test Internal Report.pdf	2016-02-04 10:19:31
+60	 	Documentation/Manuals/AppNotes/SI-401136 SI1900S Quick Start Guide.docx	2023-03-08 16:45:25
+61	 	Documentation/Manuals/AppNotes/SI-401136 SI1900S Quick Start Guide_revB.pdf	2023-03-08 16:42:33
+62	 	Documentation/Manuals/AppNotes/SI-401205_R1k_Updating_EEPROM_Configuration_A.docx	2023-01-11 10:55:00
+63	 	Documentation/Manuals/AppNotes/SI-401218 5GHz Comb Errata.docx	2023-03-15 14:46:25
+64	 	Documentation/Manuals/AppNotes/SI-401218 5GHz Comb Errata.pdf	2023-03-15 14:45:08
+65	 	Documentation/Manuals/AppNotes/SI-800_to_SI-1900_MigrationGuide _SI-401142_revE.doc	2023-03-06 10:51:26
+66	 	Documentation/Manuals/AppNotes/SI-800_to_SI-1900_MigrationGuide _SI-401142_revE.pdf	2023-03-06 10:48:40
+67	 	Documentation/Manuals/AppNotes/SV2-M_Silicon_Photodetector_AppNote_SI-400237_A.doc	2013-10-17 09:02:58
+68	 	Documentation/Manuals/AppNotes/SydorFastPulseGatedCathodeAppNote_SI-400925_B.docx	2021-11-01 11:19:59
+69	 	Documentation/Manuals/AppNotes/SydorFastPulseGatedCathodeAppNote_SI-400925_B.pdf	2021-11-01 11:19:52
+70	 	Documentation/Manuals/AppNotes/TEMPLATE_AppNote_SI-400xxx.doc	2013-10-17 09:13:18
+71	 	Documentation/Manuals/AppNotes/Triggering_Options_AppNote_SI-400181_A.doc	2014-03-12 08:24:09
+72	 	Documentation/Manuals/AppNotes/Triggering_Options_AppNote_SI-400181_C.doc	2022-11-11 08:50:27
+73	 	Documentation/Manuals/AppNotes/Triggering_Options_AppNote_SI-400181_C.pdf	2022-11-11 08:50:22
+74	 	Documentation/Manuals/AppNotes/Trouble-Shooting_Timing_AppNote_SI-400xxx_A.doc	2016-08-11 11:23:35
+75	 	Documentation/Manuals/AppNotes/Oldrevs/ActonSpectrometerPlugIn_AppNote SI-400189 revB.doc	2010-12-10 17:18:20
+76	 	Documentation/Manuals/AppNotes/Oldrevs/ActonSpectrometerPlugIn_AppNote SI-400189 revB.pdf	2010-12-10 17:18:10
+77	 	Documentation/Manuals/AppNotes/Oldrevs/ActonSpectrometerPlugIn_AppNote SI-400189.doc	2010-11-10 13:42:07
+78	 	Documentation/Manuals/AppNotes/Oldrevs/ActonSpectrometerPlugIn_AppNote SI-400189.pdf	2010-11-12 11:21:41
+79	 	Documentation/Manuals/AppNotes/Oldrevs/AWE_GatedCathode_AppNote_SI-400796.doc	2013-11-05 15:20:26
+80	 	Documentation/Manuals/AppNotes/Oldrevs/AWE_GatedCathode_AppNote_SI-400796.pdf	2017-11-30 09:46:39
+81	 	Documentation/Manuals/AppNotes/Oldrevs/Deconvolution_App_Note.doc	2011-07-29 08:37:05
+82	 	Documentation/Manuals/AppNotes/Oldrevs/delme_ROSS _Ungated_Systems_AppNote_Retrace_and_Timing_SI-401185_B_MZ_Edits.doc	2022-11-21 09:40:31
+83	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathodeSelectionGuide SI-400372 revA.doc	2013-09-05 08:03:04
+84	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathodeSelectionGuide_SI-400372_B.doc	2013-10-17 08:54:49
+85	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathodeSelectionGuide_SI-400372_C.doc	2014-06-26 11:57:48
+86	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathodeSelectionGuide_SI-400372_C.pdf	2014-08-21 13:42:51
+87	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathode_AppNote SI-400363.doc	2013-08-19 13:08:29
+88	 	Documentation/Manuals/AppNotes/Oldrevs/GatedCathode_AppNote SI-400363.pdf	2013-08-12 15:53:18
+89	 	Documentation/Manuals/AppNotes/Oldrevs/LatchedBias_AppNote SI-400174 revB.doc	2010-11-23 11:01:23
+90	 	Documentation/Manuals/AppNotes/Oldrevs/LatchedBias_AppNote SI-400174.doc	2010-06-28 13:32:09
+91	 	Documentation/Manuals/AppNotes/Oldrevs/LatchedBias_AppNote SI-400174.pdf	2010-11-12 11:21:03
+92	 	Documentation/Manuals/AppNotes/Oldrevs/LatchedBias_AppNote_SI-400174_C.doc	2014-07-22 15:08:11
+93	 	Documentation/Manuals/AppNotes/Oldrevs/PulsedGatedCathode HighField AppNote_SI-400925_A.docx	2021-11-01 10:42:09
+94	 	Documentation/Manuals/AppNotes/Oldrevs/PulsedGatedCathode HighField AppNote_SI-400925_A.pdf	2020-07-06 15:41:51
+95	 	Documentation/Manuals/AppNotes/Oldrevs/PulsedGatedCathode HighField AppNote_SI-400925_DRAFT.docx	2019-11-13 08:57:19
+96	 	Documentation/Manuals/AppNotes/Oldrevs/PulsedGatedCathode_AppNote SI-400187.doc	2010-11-05 14:01:18
+97	 	Documentation/Manuals/AppNotes/Oldrevs/PulsedGatedCathode_HighVField_AppNote SI-400922 _Rev0.doc	2010-11-05 14:01:18
+98	 	Documentation/Manuals/AppNotes/Oldrevs/RossAppConfigurationChangesForFirmwareUpgradeTo3_43 AppNote_SI-400xxx.doc	2013-11-20 10:42:22
+99	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote SI-400xxx.doc	2010-07-26 14:06:19
+100	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote SI-400xxx_revB.doc	2012-11-01 13:18:58
+101	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_B.doc	2015-06-29 09:24:11
+102	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_B.pdf	2015-06-29 09:23:58
+103	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_C.doc	2017-11-16 09:25:13
+104	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_C.docx	2018-01-18 08:24:28
+105	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_C.pdf	2018-01-18 08:24:01
+106	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_D.docx	2018-01-24 18:46:26
+107	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_D.pdf	2018-01-24 18:46:17
+108	 	Documentation/Manuals/AppNotes/Oldrevs/Selecting CCD in RossApp_AppNote_SI-400379_oldC.pdf	2017-11-15 10:31:04
+109	 	Documentation/Manuals/AppNotes/Oldrevs/SI-400426revA P820 B1 Shutter Electrode Test Internal Report.doc	2014-03-13 17:32:44
+110	 	Documentation/Manuals/AppNotes/Oldrevs/SI-400426revB P820 B1 Shutter Electrode Test Internal Report.doc	2014-03-14 16:15:51
+111	 	Documentation/Manuals/AppNotes/Oldrevs/SI-401136 SI1900S Quick Start Guide.pdf	2023-03-01 15:28:04
+112	 	Documentation/Manuals/AppNotes/Oldrevs/SI-800_to_SI-1900_MigrationGuide _SI-401142_revD.doc	2022-10-20 13:33:18
+113	 	Documentation/Manuals/AppNotes/Oldrevs/SI-800_to_SI-1900_MigrationGuide _SI-401142_revD.pdf	2022-10-20 13:32:55
+114	 	Documentation/Manuals/AppNotes/Oldrevs/Triggering_Options_AppNote_SI-400181_A.pdf	2013-10-09 14:06:40
+115	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/ActonSpectrometerPlugIn_AppNote SI-400189 revC.pdf	2011-09-23 16:00:40
+116	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/AutoBias_AppNote SI-400180.pdf	2011-03-10 09:56:03
+117	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/GatedCathodeSelectionGuide SI-400372_revB.pdf	2013-09-17 11:50:11
+118	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/GatedCathode_AppNote SI-400363 revB.pdf	2013-09-03 14:35:41
+119	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/LatchedBias_AppNote SI-400174 revC.pdf	2010-11-30 09:52:44
+120	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/McPhersonSpectrometerPlugIn_AppNote SI-400242 revA.pdf	2011-08-09 11:34:45
+121	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/PGCPS_Plugin_Setup_AppNote SI-400343 revA.pdf	2013-05-22 16:19:26
+122	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/PulsedGatedCathode_AppNote SI-400187.pdf	2010-11-12 11:21:25
+123	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/PulsedGatedCathode_AppNote SI-400344.pdf	2013-06-18 18:31:37
+124	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/Selecting CCD in RossApp_AppNote SI-400xxx_revB.pdf	2011-12-21 15:43:37
+125	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/SV2-M_Silicon_Photodetector_SI-400237 revA.pdf	2011-07-27 14:46:07
+126	 	Documentation/Manuals/AppNotes/Oldrevs/Old PDFs/Triggering_Options_AppNote SI-400181.pdf	2010-08-24 09:43:11
+127	 	Documentation/Manuals/AppNotes/PGCPS_Images/100_5531.JPG	2008-05-16 00:15:00
+128	 	Documentation/Manuals/AppNotes/PGCPS_Images/100_5532.JPG	2008-05-16 00:15:42
+129	 	Documentation/Manuals/Archive/HTTP_Server_Setup_Guide.docx	2018-02-08 15:10:20
+130	 	Documentation/Manuals/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev0.docx	2018-04-11 09:15:02
+131	 	Documentation/Manuals/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev0.pdf	2018-04-11 09:14:52
+132	 	Documentation/Manuals/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev1.docx	2018-08-08 16:33:14
+133	 	Documentation/Manuals/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev1.pdf	2018-08-08 16:33:06
+134	 	Documentation/Manuals/Archive/SI-400790_HTTP_Server_Setup_Guide.docx	2018-02-28 13:55:34
+135	 	Documentation/Manuals/B#_ElectrometerManual/b-sharp_Electrometer_User_Manual_revK.pdf	2021-06-07 12:05:33
+136	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/SI-400446 RevC FLPG User Manual.doc	2018-02-27 17:29:47
+137	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/SI-400446 RevC FLPG User Manual.pdf	2018-02-27 17:29:40
+138	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/SI-400446 RevD FLPG User Manual.doc	2022-08-15 16:31:19
+139	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/Previous Revs/SI-400446 RevA CEA Fiberized Laser Pulse Generator User Manual.doc	2014-06-04 13:56:53
+140	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/Previous Revs/SI-400446 RevA CEA Fiberized Laser Pulse Generator User Manual.pdf	2014-06-03 14:23:41
+141	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/Previous Revs/SI-400446 RevB Fiberized Laser Pulse Generator User Manual.doc	2014-06-05 11:35:57
+142	 	Documentation/Manuals/Fiberized Laser Pulse Generator FLPG/Previous Revs/SI-400446 RevB Fiberized Laser Pulse Generator User Manual.pdf	2014-06-05 11:34:54
+143	 	Documentation/Manuals/FLP/Data Sheet -FLP-680-5.doc	2021-03-18 12:13:51
+144	 	Documentation/Manuals/FLP/Data Sheet -FLP-680-5.pdf	2021-03-18 12:14:03
+145	 	Documentation/Manuals/FLP/SI-401058 FLP Setup Guide RevA.docx	2021-03-18 12:08:15
+146	 	Documentation/Manuals/FLP/SI-401058 FLP User Guide RevB.docx	2023-01-17 17:10:36
+147	 	Documentation/Manuals/FLP/SI-401058 FLP User Guide RevB.pdf	2023-01-17 16:59:42
+148	 	Documentation/Manuals/FLP/OldRevs/SI-401058 FLP Setup Guide RevA.pdf	2021-03-18 12:07:59
+149	 	Documentation/Manuals/GEP Command Set/Copy of R2000_LogicCMDs_Ver_1_00.xls	2014-05-19 11:34:56
+150	 	Documentation/Manuals/GEP Command Set/GEP_Firmware_Upgrade_Instructions SI-400524.docx	2017-12-27 11:26:56
+151	 	Documentation/Manuals/GEP Command Set/R1000_LogicCMDs_Ver_1_00.xls	2013-02-15 16:39:31
+152	 	Documentation/Manuals/GEP Command Set/R2000_LogicCMDs_Ver_1_00.xls	2013-03-27 14:29:13
+153	 	Documentation/Manuals/GEP Command Set/SI-401234 P510_GEP_Commands_Ver_3_20.xls	2023-11-25 12:59:31
+154	 	Documentation/Manuals/GEP Command Set/From_LLE_Scott_20APR2015/GEPCMDS_ALL_2015_April.xlsx	2015-04-21 09:07:34
+155	 	Documentation/Manuals/Internal Comb/IMG_20180404_115408.jpg	2018-04-04 12:20:26
+156	 	Documentation/Manuals/Internal Comb/IntCombGenRemoval_Installation Procedure_SI-400803_B.doc	2018-04-04 14:26:18
+157	 	Documentation/Manuals/Internal Comb/IntCombGenRemoval_Installation Procedure_SI-400803_B.pdf	2018-04-04 14:26:39
+158	 	Documentation/Manuals/Internal Comb/MVIMG_20180404_115339.jpg	2018-04-04 12:21:10
+159	 	Documentation/Manuals/Internal Comb/MVIMG_20180404_115355.jpg	2018-04-04 12:21:48
+160	 	Documentation/Manuals/Internal Comb/MVIMG_20180404_115512.jpg	2018-04-04 12:22:15
+161	 	Documentation/Manuals/Internal Comb/MVIMG_20180404_115525.jpg	2018-04-04 12:18:22
+162	 	Documentation/Manuals/Internal Comb/MVIMG_20180404_115630.jpg	2018-04-04 12:19:31
+163	 	Documentation/Manuals/Internal Comb/OldRevs/IntCombGeneratorRemoval_Installation Procedure_SI-400803_A.doc	2018-04-04 12:58:54
+164	 	Documentation/Manuals/InternalCompanyAppNotes/2-Tap CCD Artifact Correction Procedure.doc	2015-08-06 18:19:48
+165	 	Documentation/Manuals/InternalCompanyAppNotes/200ps_UltraFastRamp_Testing_AppNoteSI-400386_A.doc	2013-10-17 10:07:39
+166	 	Documentation/Manuals/InternalCompanyAppNotes/ComparisonOfStreakTubes_AppNote_SI-400483.doc	2014-10-16 17:15:12
+167	 	Documentation/Manuals/InternalCompanyAppNotes/ComparisonOfStreakTubes_AppNote_SI-400483.pdf	2014-10-16 17:15:56
+168	 	Documentation/Manuals/InternalCompanyAppNotes/ComparisonOfStreakTubes_AppNote_SI-400483_RevB.doc	2014-10-22 10:27:01
+169	 	Documentation/Manuals/InternalCompanyAppNotes/DirectlyTriggeringGCPS_50_50_withoutGEP.doc	2013-12-03 16:10:53
+170	 	Documentation/Manuals/InternalCompanyAppNotes/Dynamic Calibration SI-400xxx_A.doc	2015-03-24 09:14:43
+171	 	Documentation/Manuals/InternalCompanyAppNotes/GatedCathodeOptions_AppNote SI-400xxxx_revC.doc	2014-03-25 13:54:40
+172	 	Documentation/Manuals/InternalCompanyAppNotes/GEPInit_Settings for RossApp_Simple SI-401129-revA2.docx	2022-03-15 13:51:52
+173	 	Documentation/Manuals/InternalCompanyAppNotes/GEPInit_Settings for RossApp_Simple SI-401129-revA2.pdf	2022-03-14 13:00:53
+174	 	Documentation/Manuals/InternalCompanyAppNotes/GEPInit_Settings revB.doc	2021-07-06 10:03:57
+175	 	Documentation/Manuals/InternalCompanyAppNotes/GEP_Setting_DAC_ADC_revA.doc	2014-11-14 13:31:47
+176	 	Documentation/Manuals/InternalCompanyAppNotes/Keck_Reducing Jitter with short trigger pulses.doc	2021-05-05 17:17:40
+177	 	Documentation/Manuals/InternalCompanyAppNotes/Keck_Reducing Jitter with short trigger pulses_revB.doc	2021-06-01 13:04:18
+178	 	Documentation/Manuals/InternalCompanyAppNotes/Maximum CCD Exposure Recommendation.doc	2014-02-27 12:07:17
+179	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_AppNote_SI-400385_A.doc	2013-10-17 10:09:37
+180	 	Documentation/Manuals/InternalCompanyAppNotes/OptimizingBias_Sweep_ShutterTiming.doc	2014-07-18 13:31:00
+181	 	Documentation/Manuals/InternalCompanyAppNotes/Photek_STX_AppNote revA.doc	2013-03-01 08:39:02
+182	 	Documentation/Manuals/InternalCompanyAppNotes/Photek_STX_AppNote revA.pdf	2013-02-28 14:36:47
+183	 	Documentation/Manuals/InternalCompanyAppNotes/RFQ_Processing_Worksheet SI-400xx_revA.doc	2013-09-13 16:58:56
+184	 	Documentation/Manuals/InternalCompanyAppNotes/RFQ_Processing_Worksheet SI-400xx_revB.doc	2013-09-25 10:19:47
+185	 	Documentation/Manuals/InternalCompanyAppNotes/ROSS5100 AC Current Consumption.docx	2017-07-10 10:27:40
+186	 	Documentation/Manuals/InternalCompanyAppNotes/RotationAlignmentOf5800_OCM_with_TopInput.docx	2021-05-28 11:01:24
+187	 	Documentation/Manuals/InternalCompanyAppNotes/Setting up a ROSS 5100.doc	2014-05-30 12:49:10
+188	 	Documentation/Manuals/InternalCompanyAppNotes/SI-401179 MaxFrequency Hex Mapping EEPROM.xlsx	2022-11-09 13:15:24
+189	 	Documentation/Manuals/InternalCompanyAppNotes/SI-401181_Ross 1000_2000 Network Setup_B.pdf	2022-11-14 16:49:09
+190	 	Documentation/Manuals/InternalCompanyAppNotes/SI-401181_Ross 1000_2000 Network Setup_B.pptx	2022-11-14 16:48:31
+191	 	Documentation/Manuals/InternalCompanyAppNotes/SI-401217_Fixing_LUT_Windows_in_RossApp.docx	2023-03-08 14:14:43
+192	 	Documentation/Manuals/InternalCompanyAppNotes/SonyCameraComparison_revA.doc	2013-10-28 12:07:31
+193	 	Documentation/Manuals/InternalCompanyAppNotes/SonyCameraComparison_revA.pdf	2013-10-28 12:07:11
+194	 	Documentation/Manuals/InternalCompanyAppNotes/SonyCameraComparison_revB.doc	2013-10-29 09:39:26
+195	 	Documentation/Manuals/InternalCompanyAppNotes/SonyCameraComparison_revB.pdf	2013-10-29 09:39:07
+196	 	Documentation/Manuals/InternalCompanyAppNotes/ST-DS_HiFieldEvaluation.doc	2015-11-20 15:54:59
+197	 	Documentation/Manuals/InternalCompanyAppNotes/ST-DS_HiFieldEvaluation.pdf	2015-11-20 15:51:51
+198	 	Documentation/Manuals/InternalCompanyAppNotes/ST-DS_LLE_HiFieldEvaluation.doc	2016-01-06 10:39:37
+199	 	Documentation/Manuals/InternalCompanyAppNotes/ST-DS_LLE_HiFieldEvaluation.pdf	2015-12-31 11:50:48
+200	 	Documentation/Manuals/InternalCompanyAppNotes/ST-DS_LowFieldEvaluation.doc	2015-11-05 13:12:25
+201	 	Documentation/Manuals/InternalCompanyAppNotes/STX_Tube_Performance.docx	2014-11-18 19:22:31
+202	 	Documentation/Manuals/InternalCompanyAppNotes/Vacuum Sealing Ribbon Cable Procedure.doc	2015-04-09 15:19:18
+203	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/MenloLaser manual.pdf	2013-10-16 09:51:51
+204	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 48 59 PM.jpg	2013-10-15 16:54:03
+205	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 49 25 PM.jpg	2013-10-15 16:54:21
+206	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 49 41 PM.jpg	2013-10-15 16:54:36
+207	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 50 30 PM.jpg	2013-10-15 16:54:55
+208	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 55 59 PM.jpg	2013-10-15 16:57:36
+209	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 56 20 PM.jpg	2013-10-15 16:57:51
+210	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 15, 4 56 35 PM.jpg	2013-10-15 16:58:04
+211	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 16, 10 16 34 AM.jpg	2013-10-16 10:18:56
+212	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Photo Oct 16, 9 57 03 AM.jpg	2013-10-16 09:59:12
+213	 	Documentation/Manuals/InternalCompanyAppNotes/MenloLaserSetup_Photos/Scan Oct 16, 2013, 10.49 AM-page1.jpg	2013-10-16 10:50:09
+214	 	Documentation/Manuals/InternalCompanyAppNotes/OldRevs/GatedCathodeOptions_AppNote SI-400xxxx.doc	2012-10-24 18:03:26
+215	 	Documentation/Manuals/InternalCompanyAppNotes/OldRevs/GatedCathodeOptions_AppNote SI-400xxxx_revB.doc	2013-04-16 17:50:59
+216	 	Documentation/Manuals/InternalCompanyAppNotes/OldRevs/GEPInit_Settings revA.doc	2014-03-25 16:46:16
+217	 	Documentation/Manuals/InternalCompanyAppNotes/OldRevs/MenloLaserSetup_AppNote.doc	2013-10-16 14:40:30
+218	 	Documentation/Manuals/InternalCompanyAppNotes/OldRevs/UltraFastRamp(200ps)Testing_AppNote.doc	2013-10-17 07:55:50
+219	 	Documentation/Manuals/InternalCompanyAppNotes/UltraFastRampTesting_Photos/Photo Oct 16, 9 04 51 AM.jpg	2013-10-16 15:05:20
+220	 	Documentation/Manuals/InternalCompanyAppNotes/UltraFastRampTesting_Photos/Photo Oct 16, 9 04 59 AM.jpg	2013-10-16 15:05:37
+221	 	Documentation/Manuals/InternalCompanyAppNotes/UltraFastRampTesting_Photos/Photo Oct 16, 9 05 22 AM.jpg	2013-10-16 15:05:53
+222	 	Documentation/Manuals/Keithley-Tek_6221_Current_Source/622x-900-01(B-Jun2005)(User).pdf	2015-12-14 16:43:14
+223	 	Documentation/Manuals/Keithley-Tek_6221_Current_Source/HowToCHooseSMU.pdf	2015-12-15 18:04:30
+224	 	Documentation/Manuals/Keithley-Tek_6221_Current_Source/NetworkConnectionOverviewv1.11.pdf	2015-12-14 16:33:05
+225	 	Documentation/Manuals/Keithley-Tek_6221_Current_Source/SemiChar_Eguide_1213.pdf	2015-12-15 18:05:18
+226	 	Documentation/Manuals/Keithley-Tek_6221_Current_Source/SPEC-6221(C-October2012)(Customer).pdf	2015-12-14 16:46:24
+227	 	Documentation/Manuals/OCM/OCM Operators Manual SI-400178 revK.doc	2018-12-21 17:35:16
+228	 	Documentation/Manuals/OCM/OCM Operators Manual SI-400178 revK.pdf	2020-05-18 10:38:33
+229	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revF.doc	2010-09-03 08:19:16
+230	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revF.pdf	2010-09-03 08:27:39
+231	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revG.doc	2010-09-08 11:00:40
+232	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revG.pdf	2012-07-20 16:13:06
+233	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revH.doc	2012-07-23 15:59:38
+234	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revH.pdf	2012-07-23 15:59:32
+235	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revJ.doc	2017-07-25 13:46:38
+236	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178 revJ.pdf	2017-07-25 13:46:26
+237	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178.doc	2010-08-11 09:32:06
+238	 	Documentation/Manuals/OCM/OlderRevs/OCM Operators Manual SI-400178.pdf	2010-08-11 09:31:58
+239	 	Documentation/Manuals/Precision Illuminator/Precision Illuminator Settings SI400423.docx	2014-03-06 07:44:05
+240	 	Documentation/Manuals/Precision Illuminator/Precision Illuminator Settings SI400423_B.docx	2021-06-24 13:05:42
+241	 	Documentation/Manuals/ROSS Manual/5100 Product Spec Chart.doc	2005-06-28 17:04:27
+242	 	Documentation/Manuals/ROSS Manual/8200 Product Spec Chart.doc	2005-06-28 16:52:04
+243	 	Documentation/Manuals/ROSS Manual/Input_Light_Guidelines_Addendum.doc	2008-05-23 08:28:37
+244	 	Documentation/Manuals/ROSS Manual/LLE_Streak_Camera_program.pdf	2005-10-28 16:27:20
+245	 	Documentation/Manuals/ROSS Manual/Procedure to Turn On and Off ROSS Streak Camera System.docx	2019-10-21 14:22:02
+246	 	Documentation/Manuals/ROSS Manual/Procedure to Turn On and Off ROSS Streak Camera System.pdf	2022-09-14 13:51:32
+247	 	Documentation/Manuals/ROSS Manual/ROSS5000_CMOS_Operators_Manual_RevQ.docx	2021-03-03 08:20:46
+248	 	Documentation/Manuals/ROSS Manual/ROSS5000_CMOS_Operators_Manual_RevQ.pdf	2021-03-04 16:45:05
+249	 	Documentation/Manuals/ROSS Manual/ROSS5000_Operators_Manual_revN_GOODFORMATTING.doc	2019-10-22 13:11:11
+250	 	Documentation/Manuals/ROSS Manual/ROSS5000_Operators_Manual_RevP.docx	2023-01-17 17:08:46
+251	 	Documentation/Manuals/ROSS Manual/ROSS5000_Operators_Manual_RevP.pdf	2023-01-17 17:12:34
+252	 	Documentation/Manuals/ROSS Manual/ROSS_Laser_Focus_World.pdf	2005-10-28 15:55:00
+253	 	Documentation/Manuals/ROSS Manual/Streak_Camera_Overview.pdf	2005-10-28 16:27:58
+254	 	Documentation/Manuals/ROSS Manual/TroubleShootingGuide.docx	2018-05-09 10:02:52
+255	 	Documentation/Manuals/ROSS Manual/TroubleShootingGuide_web_revA.docx	2018-05-17 16:14:21
+256	 	Documentation/Manuals/ROSS Manual/TroubleShootingGuide_web_revB.docx	2018-05-23 09:41:44
+257	 	Documentation/Manuals/ROSS Manual/TroubleShootingGuide_YF.docx	2021-02-25 16:44:40
+258	 	Documentation/Manuals/ROSS Manual/Tutorial_5100.doc	2009-03-31 14:52:33
+259	 	Documentation/Manuals/ROSS Manual/Tutorial_5100.pdf	2009-03-31 14:52:19
+260	 	Documentation/Manuals/ROSS Manual/Tutorial_8200_110508.doc	2008-11-05 10:07:11
+261	 	Documentation/Manuals/ROSS Manual/Tutorial_8200_110508.pdf	2008-11-05 13:01:42
+262	 	Documentation/Manuals/ROSS Manual/UserManual_FSB_Supplement.doc	2006-06-09 16:56:58
+263	 	Documentation/Manuals/ROSS Manual/Images/28V PS Face Label 115.pdf	2005-11-09 15:48:37
+264	 	Documentation/Manuals/ROSS Manual/Images/28V PS Face Label 220 with OCM.JPG	2006-03-28 15:25:47
+265	 	Documentation/Manuals/ROSS Manual/Images/28V PS Face Label 220 with OCM.pdf	2006-03-28 15:30:56
+266	 	Documentation/Manuals/ROSS Manual/Images/28V PS Face Label 220.jpg	2005-11-10 09:10:08
+267	 	Documentation/Manuals/ROSS Manual/Images/28V PS Face Label 220.pdf	2005-11-09 16:00:55
+268	 	Documentation/Manuals/ROSS Manual/Images/badgraphics.JPG	2018-02-02 09:51:52
+269	 	Documentation/Manuals/ROSS Manual/Images/CCDprop.JPG	2018-05-08 17:08:36
+270	 	Documentation/Manuals/ROSS Manual/Images/CCDprop2.JPG	2018-05-08 17:09:31
+271	 	Documentation/Manuals/ROSS Manual/Images/GEP Face Label.jpg	2005-11-10 11:01:49
+272	 	Documentation/Manuals/ROSS Manual/Images/GEP Face Label.pdf	2005-11-10 11:01:05
+273	 	Documentation/Manuals/ROSS Manual/Images/GEP photo.JPG	2005-08-11 15:03:45
+274	 	Documentation/Manuals/ROSS Manual/Images/OffnerLLE.JPG	2018-02-01 10:07:50
+275	 	Documentation/Manuals/ROSS Manual/Images/offnerLLE.pdf	2018-02-01 10:18:23
+276	 	Documentation/Manuals/ROSS Manual/Images/PC-GEP-CCD.JPG	2005-11-14 15:51:39
+277	 	Documentation/Manuals/ROSS Manual/Images/ROSS Schematic 5100.JPG	2006-02-07 14:36:43
+278	 	Documentation/Manuals/ROSS Manual/Images/ROSS Schematic 8200.JPG	2006-04-07 14:56:16
+279	 	Documentation/Manuals/ROSS Manual/Images/Strain Relief Plate '.jpg	2005-11-10 10:32:37
+280	 	Documentation/Manuals/ROSS Manual/Images/Strain Relief Plate '.pdf	2005-11-10 10:32:06
+281	 	Documentation/Manuals/ROSS Manual/Images/Strain Relief Plate.jpg	2005-11-10 10:26:28
+282	 	Documentation/Manuals/ROSS Manual/Images/Strain Relief Plate.pdf	2005-11-09 15:28:52
+283	 	Documentation/Manuals/ROSS Manual/OldRevs/FDR_Sys28_5100b.pdf	2009-03-31 16:39:30
+284	 	Documentation/Manuals/ROSS Manual/OldRevs/Operators_Manual_082908.pdf	2008-08-29 12:10:29
+285	 	Documentation/Manuals/ROSS Manual/OldRevs/Operators_Manual_revE.doc	2009-07-30 16:10:19
+286	 	Documentation/Manuals/ROSS Manual/OldRevs/Operators_Manual_revE.pdf	2009-07-30 16:07:05
+287	 	Documentation/Manuals/ROSS Manual/OldRevs/Operators_Manual_revG.doc	2012-07-27 10:25:04
+288	 	Documentation/Manuals/ROSS Manual/OldRevs/Procedure to Turn On and Off a ROSS Streak Camera System.pdf	2018-12-17 17:22:17
+289	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5000_Operators_Manual_revM.doc	2017-06-08 15:51:25
+290	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5000_Operators_Manual_revM.pdf	2017-06-08 15:51:03
+291	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5000_Operators_Manual_revN.pdf	2018-03-02 13:57:05
+292	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5000_Operators_Manual_revO.docx	2019-10-18 10:43:15
+293	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5100_Operators_Manual_revL.doc	2015-02-25 11:58:45
+294	 	Documentation/Manuals/ROSS Manual/OldRevs/ROSS5100_Operators_Manual_revL.pdf	2015-02-25 11:58:06
+295	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 (LP).doc	2006-02-07 13:41:38
+296	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 2 (LP).doc	2006-03-22 14:14:10
+297	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 2.pdf	2006-02-10 09:38:19
+298	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 3 (LP).doc	2006-05-03 09:52:39
+299	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 3.pdf	2006-04-28 15:50:06
+300	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 3b (LP).doc	2007-07-06 17:10:02
+301	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1 Rev. 3b _LP_.pdf	2006-05-04 16:01:41
+302	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1.doc	2006-02-07 12:57:46
+303	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1.pdf	2005-11-23 10:19:56
+304	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/CEA Manual Version 1_1 (LP).doc	2005-11-22 13:40:31
+305	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Manual Table of Contents.doc	2005-06-28 15:30:45
+306	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operation_Manual.doc	2005-08-05 17:30:27
+307	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operation_Manual_outline2.doc	2005-07-13 09:41:27
+308	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_082908.doc	2008-08-29 12:09:36
+309	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revF.doc	2010-06-25 14:01:02
+310	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revF.pdf	2009-08-06 09:18:19
+311	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revG.pdf	2012-07-27 10:23:50
+312	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revH.doc	2013-06-28 05:43:51
+313	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revJ.doc	2013-08-13 10:03:36
+314	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_revJ.pdf	2013-08-13 10:04:17
+315	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Operators_Manual_YF.doc	2005-11-22 10:25:21
+316	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/ROSS5100_Operators_Manual_revK.doc	2014-06-05 13:22:39
+317	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/ROSS5100_Operators_Manual_revK.pdf	2014-06-05 13:20:34
+318	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Rough.doc	2005-11-18 14:13:09
+319	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Rough1.doc	2005-11-17 10:08:14
+320	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/RoughYF.doc	2005-08-03 11:54:53
+321	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Table of Contents.doc	2005-11-16 10:01:55
+322	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/Tutorial_8200.doc	2008-11-04 14:48:14
+323	 	Documentation/Manuals/ROSS Manual/OldRevs/junkjunkjunk/UserManualRossAppv006.doc	2005-10-28 16:28:19
+324	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/Software_Reference_Manualv24_RevB.docx	2019-01-29 10:48:25
+325	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/Software_Reference_Manualv24_RevB.pdf	2019-01-29 10:47:30
+326	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manual.pdf	2006-06-27 17:33:58
+327	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv007.doc	2005-11-22 09:41:59
+328	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv008.doc	2006-06-27 17:34:12
+329	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv23_a.doc	2007-04-16 11:52:00
+330	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv23_a.pdf	2007-07-05 10:52:18
+331	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv24_a.doc	2009-07-30 16:02:37
+332	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv24_a.pdf	2009-07-30 16:00:49
+333	 	Documentation/Manuals/ROSS Manual/Software Ref Manual/OldRevs/Software_Reference_Manualv24_RevB.doc	2018-12-21 17:15:34
+334	 	Documentation/Manuals/RossApp_SIMPLE/5100 Operation Verification.pdf	2015-08-04 21:02:03
+335	 	Documentation/Manuals/RossApp_SIMPLE/SI-401046_RAS_Software_Reference_Manual_v27_C.docx	2023-05-04 10:46:43
+336	 	Documentation/Manuals/RossApp_SIMPLE/SI-401046_RAS_Software_Reference_Manual_v27_C.pdf	2023-05-04 10:46:02
+337	 	Documentation/Manuals/RossApp_SIMPLE/SI-401224 RossApp_Simple Upgrade.docx	2023-03-29 15:21:44
+338	 	Documentation/Manuals/RossApp_SIMPLE/SI-401224 RossApp_Simple Upgrade.pdf	2023-03-29 15:21:53
+339	 	Documentation/Manuals/RossApp_SIMPLE/SI-401246_A Upgrading RossApp_Simple to v0.31.6 from previous versions.docx	2023-05-04 11:42:17
+340	 	Documentation/Manuals/RossApp_SIMPLE/SI-401246_A Upgrading RossApp_Simple to v0.31.6 from previous versions.pdf	2023-05-04 11:40:46
+341	 	Documentation/Manuals/RossApp_SIMPLE/OLD/RAS_Software_Reference_Manualv26_a.pdf	2015-12-15 12:25:21
+342	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046 CMOS_Software_Reference_Manualv27_a - Copy.docx	2021-01-15 10:16:49
+343	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046 CMOS_Software_Reference_Manualv27_a.docx	2021-01-14 09:22:17
+344	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046_RAS_Software_Reference_Manualv27_a.docx	2021-02-18 14:55:49
+345	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046_RAS_Software_Reference_Manualv27_a.pdf	2021-02-18 14:28:13
+346	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046_RAS_Software_Reference_Manualv27_b.docx	2021-02-24 16:10:11
+347	 	Documentation/Manuals/RossApp_SIMPLE/OLD/SI-401046_RAS_Software_Reference_Manual_V27_B.pdf	2021-02-24 13:47:42
+348	 	Documentation/Manuals/RossApp_SIMPLE/OLD/Software_Reference_Manualv25_a.doc	2015-04-07 10:25:16
+349	 	Documentation/Manuals/RossApp_SIMPLE/OLD/Software_Reference_Manualv25_a.pdf	2015-02-25 12:01:25
+350	 	Documentation/Manuals/RossApp_SIMPLE/OLD/Software_Reference_Manualv26_a.doc	2015-12-15 12:25:53
+351	 	Documentation/Manuals/Serial to Optical Converter/SI-400595 RevA Serial To Optical Converter User Manual.doc	2015-12-18 13:58:55
+352	 	Documentation/Manuals/Serial to Optical Converter/SI-400595 RevA Serial To Optical Converter User Manual.pdf	2015-10-20 14:41:57
+353	 	Documentation/Manuals/Serial to Optical Converter/SI-400595 RevA Serial To Optical Converter User Manual_B.doc	2018-05-21 10:21:29
+354	 	Documentation/Manuals/Serial to Optical Converter/SI-400595 Serial To Optical Converter User Manual_B.doc	2018-05-21 10:29:47
+355	 	Documentation/Manuals/Serial to Optical Converter/SI-400595 Serial To Optical Converter User Manual_B.pdf	2018-05-21 10:29:40
+356	 	Documentation/Manuals/SI Camera and Server Box Manuals/2500-.pdf	2002-09-09 06:16:52
+357	 	Documentation/Manuals/SI Camera and Server Box Manuals/4500.pdf	2009-11-06 13:17:06
+358	 	Documentation/Manuals/SI Camera and Server Box Manuals/6762_manual.pdf	2017-11-15 14:20:31
+359	 	Documentation/Manuals/SI Camera and Server Box Manuals/9595- Manual CCD Camera HTTP Server Service.pdf	2018-07-25 15:00:32
+360	 	Documentation/Manuals/SI Camera and Server Box Manuals/9596A_Manual CCD Camera HTTP Server User's.pdf	2018-07-25 15:10:38
+361	 	Documentation/Manuals/SI Camera and Server Box Manuals/HTTP Camera Server User.pdf	2017-09-08 11:56:06
+362	 	Documentation/Manuals/SI Camera and Server Box Manuals/OpenDHCPServerManual.pdf	2018-09-14 15:50:28
+363	 	Documentation/Manuals/SI Camera Manuals/11143 1900S_PN 10870_Camera System Manual.pdf	2022-05-02 14:05:15
+364	 	Documentation/Manuals/SI Camera Manuals/2500-.pdf	2002-09-09 06:16:52
+365	 	Documentation/Manuals/SI Camera Manuals/4500.pdf	2009-11-06 13:17:06
+366	 	Documentation/Manuals/SI Camera Manuals/6762_manual.pdf	2017-11-15 14:20:31
+367	 	Documentation/Manuals/SI Camera Manuals/9596A_Manual CCD Camera HTTP Server User's.pdf	2018-09-14 15:50:16
+368	 	Documentation/Manuals/SI Camera Manuals/HTTP Camera Server User.pdf	2017-09-08 11:56:06
+369	 	Documentation/Manuals/SI Camera Manuals/OpenDHCPServerManual.pdf	2018-09-14 15:50:28
+370	 	Documentation/Manuals/Spectral_Instruments_HTTP_Server/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev2.docx	2021-06-22 15:39:08
+371	 	Documentation/Manuals/Spectral_Instruments_HTTP_Server/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev2.pdf	2019-02-08 13:44:44
+372	 	Documentation/Manuals/Spectral_Instruments_HTTP_Server/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev2_appendix.pdf	2018-09-14 11:36:24
+373	 	Documentation/Manuals/Spectral_Instruments_HTTP_Server/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev0.docx	2018-04-11 09:15:02
+374	 	Documentation/Manuals/Spectral_Instruments_HTTP_Server/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev1.docx	2018-08-08 16:33:14
+375	 	Documentation/Manuals/StandAloneCombGenerator/Comb_Gen_UserManual SI_400432_I.doc	2020-04-20 16:34:00
+376	 	Documentation/Manuals/StandAloneCombGenerator/Comb_Gen_UserManual SI_400432_I.pdf	2022-09-09 10:19:20
+377	 	Documentation/Manuals/StandAloneCombGenerator/Stand Alone Comb Troubleshooting Doc_SI-400473_B.doc	2014-09-03 13:44:52
+378	 	Documentation/Manuals/StandAloneCombGenerator/Stand Alone Comb Troubleshooting Doc_SI-400473_B.pdf	2014-09-03 13:45:28
+379	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_DataReport.doc	2008-07-17 12:19:10
+380	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_B.doc	2014-04-01 10:20:28
+381	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_B.pdf	2014-04-30 13:45:41
+382	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_C_Special.doc	2016-08-24 17:09:18
+383	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_D.doc	2016-08-29 14:19:00
+384	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_D.pdf	2016-08-29 14:19:19
+385	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_E.doc	2016-11-03 13:50:00
+386	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_F.doc	2017-12-01 09:37:48
+387	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_F.pdf	2017-12-01 09:37:39
+388	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_H.doc	2019-04-11 10:11:54
+389	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual SI_400432_H.pdf	2019-07-26 14:52:53
+390	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual.doc	2014-03-31 13:14:36
+391	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Comb_Gen_UserManual.pdf	2008-05-28 16:43:10
+392	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Stand Alone Comb Troubleshooting Doc_SI-400473_A.doc	2014-09-03 13:43:11
+393	 	Documentation/Manuals/StandAloneCombGenerator/Old Revs/Stand Alone Comb Troubleshooting Doc_SI-400473_A.pdf	2014-09-03 11:38:24
+394	 	Documentation/Manuals/SydorIntensifiedCamera/SydorIntensifiedCamera SI-400299revA.doc	2012-09-21 14:54:37
+395	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Overview_RevC.doc	2013-10-11 15:34:28
+396	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Overview_RevC.pdf	2013-10-11 15:34:40
+397	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/SydorXrayStripDetector_Operators_Manual_revB.pdf	2013-10-14 11:09:29
+398	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/SydorXrayStripDetector_Operators_Manual_revC.doc	2014-07-09 11:06:09
+399	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/Overview_RevA.doc	2013-10-10 16:55:56
+400	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/Overview_RevB.doc	2013-10-11 13:32:50
+401	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/SydorXrayStripDetector_Operators_Manual_revA_DO NOT USE.doc	2013-10-09 10:49:57
+402	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/SydorXrayStripDetector_Operators_Manual_revA_DO NOT USE.pdf	2013-10-09 10:47:59
+403	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/SydorXrayStripDetector_Operators_Manual_revA_InternalOnly_DO NOT USE.doc	2013-09-19 09:47:38
+404	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/SydorXrayStripDetector_Operators_Manual_revA_YF_DC_AE_YF.doc	2013-10-14 09:41:57
+405	 	Documentation/Manuals/Sydor_X-ray_Strip_detector/Archives/SydorXrayStripDetector_Operators_Manual_revB.doc	2013-10-14 11:09:48
+406	 	Documentation/Manuals/TCPSocketServerPlugIn/Software schema.jpg	2020-09-21 12:34:06
+407	 	Documentation/Manuals/TCPSocketServerPlugIn/TCP Socket Server Manual SI-401001A.docx	2020-09-21 12:30:23
+408	 	Documentation/Manuals/TCPSocketServerPlugIn/TCP Socket Server Manual SI-401001A.pdf	2020-09-21 12:28:54
+409	 	Documentation/Manuals/TCPSocketServerPlugIn/TCP Socket Server Manual SI-401001B.docx	2020-10-26 12:03:19
+410	 	Documentation/Manuals/TCPSocketServerPlugIn/TCP Socket Server Manual SI-401124_B.docx	2022-04-05 12:47:46
+411	 	Documentation/Manuals/TCPSocketServerPlugIn/TCP Socket Server Manual SI-401124_B.pdf	2022-04-05 12:47:24
+412	 	Documentation/Manuals/TCPSocketServerPlugIn/Archive/TCP Socket Server Manual_draftD.docx	2020-05-14 16:41:22
+413	 	Documentation/Manuals/TCPSocketServerPlugIn/Archive/TCP Socket Server Manual_draftE.docx	2020-07-02 16:54:16
+414	 	Documentation/Manuals/TCPSocketServerPlugIn/Archive/TCP Socket Server Manual_draftF.docx	2020-07-07 17:06:39
+415	 	Documentation/Manuals/TCPSocketServerPlugIn/Archive/TCP Socket Server Manual_draftG.docx	2020-07-13 14:58:23
+416	 	Documentation/Manuals/TCPSocketServerPlugIn/Archive/TCP Socket Server Manual_draftH.docx	2020-07-14 11:36:46
+417	 	Documentation/Manuals/Trigger Combiner Box/SI-400616 RevA Trigger Combiner Box User Manual.doc	2015-12-18 10:11:37
+418	 	Documentation/Manuals/Trigger Combiner Box/SI-400616 RevA Trigger Combiner Box User Manual.pdf	2016-02-01 17:19:42
+419	 	Documentation/Manuals/Trigger Combiner Box/SI-400XXX RevA Trigger Combiner Box User Manual.doc	2015-12-16 08:49:50
+420	 	Documentation/Manuals/Trigger Combiner Box/SI-400XXX RevA Trigger Combiner Box User Manual2.doc	2015-12-18 09:47:52
+421	 	Documentation/Manuals/Vacuum Port Upgrade/SI-400795_VacuumPortTubingUpgrade.docx	2018-03-14 08:41:27
+422	 	Documentation/Manuals/Vacuum Port Upgrade/SI-400795_VacuumPortTubingUpgrade.pdf	2018-03-14 08:41:07
+423	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revA.doc	2011-05-18 08:01:33
+424	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revB.doc	2011-05-23 08:34:11
+425	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revC.doc	2011-05-23 12:21:16
+426	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revC.pdf	2011-05-24 13:11:04
+427	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revD.doc	2011-07-27 15:53:48
+428	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revD.pdf	2011-07-27 15:53:41
+429	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revE.doc	2015-04-29 14:58:32
+430	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Operators_Manual_revE.pdf	2015-04-29 14:59:45
+431	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevA.doc	2011-05-17 13:24:16
+432	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevB.doc	2011-05-23 00:46:20
+433	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevC.doc	2011-05-24 12:15:30
+434	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevD.doc	2011-05-24 13:55:05
+435	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevD.pdf	2011-05-24 14:01:36
+436	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevE - compressed.doc	2011-09-09 16:26:36
+437	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevE - compressed.pdf	2011-09-09 16:28:31
+438	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevE.doc	2011-07-29 14:38:45
+439	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevE.pdf	2011-07-29 14:37:56
+440	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevF - compressed.doc	2012-02-13 14:39:11
+441	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevF - compressed.pdf	2012-02-13 10:00:57
+442	 	Documentation/ROSS/ROSS_1000/Manuals/Old/ROSS_1000_Software_Reference_Manual_RevG.pdf	2015-04-29 15:09:55
+443	 	Documentation/ROSS/ROSS_1000/Manuals/Old/SI-401177 ROSS_1000_Software_Reference_Manual_RevG.docx	2015-04-29 15:10:12
+444	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/Gating Performance Appnote SI-400265_revA.doc	2012-02-10 18:05:30
+445	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/Gating Performance Appnote SI-400265_revB.docx	2012-02-13 10:04:59
+446	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/Gating Performance Appnote SI-400265_revB.pdf	2012-02-13 10:04:41
+447	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/ROSSApp Migration AppNote SI-400370.doc	2013-08-19 17:33:11
+448	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/ROSSApp Migration AppNote SI-400370.pdf	2013-08-19 17:32:14
+449	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/SI-400543 ROSS1000 Slow Bias AppNote.doc	2015-05-12 16:26:30
+450	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/SI-400543 ROSS1000 Slow Bias AppNote1.doc	2015-05-18 09:32:01
+451	 	Documentation/ROSS/ROSS_1000/Manuals/Ross-1000_AppNotes/TriggeredSweep_ExtendingHoldoffTime Appnote SI-400244.doc	2011-08-15 16:46:01
+452	 	Documentation/ROSS/ROSS_1000/Manuals/Screenshots/Triggered Ramp Plugin.doc	2011-07-29 08:43:47
+453	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revA.doc	2013-04-22 14:26:02
+454	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revB.doc	2013-06-17 10:26:08
+455	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revB.pdf	2013-06-17 10:24:39
+456	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revC.doc	2014-06-10 16:09:04
+457	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revC.pdf	2014-06-10 16:07:47
+458	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revD.doc	2015-07-06 11:46:51
+459	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revD.pdf	2015-07-06 11:47:16
+460	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revE.doc	2019-02-19 10:46:03
+461	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revE.pdf	2015-08-11 10:33:30
+462	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Operators_Manual_revF.doc	2015-08-11 10:33:45
+463	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Software_Reference_Manual_RevA - compressed.doc	2013-06-17 17:28:42
+464	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Software_Reference_Manual_RevB.doc.docx	2014-06-02 17:20:54
+465	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Software_Reference_Manual_RevC.doc.docx	2015-04-13 16:20:40
+466	 	Documentation/ROSS/ROSS_2000/Manuals/OLD_REVS/ROSS_2000_Software_Reference_Manual_RevC.pdf	2014-06-10 16:15:07
+467	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Accessory Relay Operation/DXM-Accessory Relay Op.pdf	2019-07-01 10:24:20
+468	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Automatic Fan Staging/DXM-Auto Fan Staging.pdf	2019-07-01 10:24:20
+469	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Compressor Shutdown/DXM-Compress Shutdown.pdf	2019-07-01 10:24:21
+470	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Dehumidification Auto Fan Staging/DXM-Dehumid Auto Fan.pdf	2019-07-01 10:24:21
+471	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Manual Fan Staging/DXM-Manual Fan Staging.pdf	2019-07-01 10:24:21
+472	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Master Fan Input/DXM-Master Fan Input.pdf	2019-07-01 10:24:21
+473	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Night Low Limit Protection/DXM-Night Low Limit Protect.pdf	2019-07-01 10:24:21
+474	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Night Setback With Override/DXM-Night SB-Override.pdf	2019-07-01 10:24:21
+475	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/DXM-Shutdown-Pump Restart/DXM-ShutdownPumpRestart.pdf	2019-07-01 10:24:21
+476	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Application Drawings/Standard CXM with Thermostat/Standard CXM with Stat.pdf	2019-07-01 10:24:21
+477	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/AH Electric Heat IOM/AH electric heat IOM.pdf	2019-07-01 10:24:21
+478	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/ALCP 2004 Loop Control Panel IOM/LC001.pdf	2019-07-01 10:24:21
+479	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/ATP32U03-04 digital Night Setback and Pump Restart/Digital_Night_Setback_and_Pump_Restart_5_6_11.pdf	2019-07-01 10:24:21
+480	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/CM3500 Series Controller/97B0003N11.pdf	2019-07-01 10:24:21
+481	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/CMC - CXM Conversion Installation Instructions/97B0012N02.pdf	2019-07-01 10:24:21
+482	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/CMC - DXM Conversion Installation Instructions/97B0012N01.pdf	2019-07-01 10:24:21
+483	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/Console CMC-DXM Conversion Installation Instructions/99D0024N01.pdf	2019-07-01 10:24:21
+484	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/DXM Replacement for CXM/97B0017N01.pdf	2019-07-01 10:24:21
+485	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/Electronic Thermostat IOM/69197318.pdf	2019-07-01 10:24:21
+486	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/LonWorks AOM/97B0013N01.pdf	2019-07-01 10:24:21
+487	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Controls/MPC Controller and Wall Sensors AOM (BACnet, N2, and Modbus Networks)/97B0031N01.pdf	2019-07-01 10:24:21
+488	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Guides/ECM Blower Motor Replacement Guide/97B0004N03.pdf	2019-07-01 10:24:21
+489	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/AST008 Outdoor Air Temperature Sensor/AST008.pdf	2019-07-01 10:24:21
+490	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATA11U01, ATA22U01, ATA21U01 Thermostats/Install ATA - - U01.pdf	2019-07-01 10:24:21
+491	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATA11U03/97b0082n06-climatemaster-commercial-ata11u03-non-programmable-heat-pump-thermostat-installation-operation-manual.pdf	2019-07-01 10:24:21
+492	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATA32U01, ATP32U01, ATP32U02 Thermostats/ATA32.pdf	2019-07-01 10:24:22
+493	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATM11C01, ATM11C11 Thermostats/ATM11C01Install.pdf	2019-07-01 10:24:22
+494	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATP21U01/ATP21U01.pdf	2019-07-01 10:24:22
+495	 	Facilities/78_Schuyler_Baldwin/HVAC Maintenance & documentation/Manuals/thermostats_sensors_drawings_guides/Thermostats/ATP32U03, ATP32U04 Thermostats/ATP32U0304-IOM.pdf	2019-07-01 10:24:22
+496	 	PRODUCTS/DBPM/Manuals/Archive/SI-400776 SI-DBPM-M402 Operation Manual revE.doc	2019-12-12 10:50:18
+497	 	PRODUCTS/DBPM/Manuals/Archive/SI-400776 SI-DBPM-M402 Operation Manual rev_F.doc	2019-12-12 11:08:23
+498	 	PRODUCTS/DBPM/Manuals/Archive/SI-400776 SI-DBPM-M402 Operation Manual Rev_G.docx	2020-04-21 09:11:12
+499	 	PRODUCTS/DBPM/Manuals/Archive/SI-400776 SI-DBPM-M402 Operation Manual Rev_G.pdf	2020-04-28 11:16:09
+500	 	PRODUCTS/DBPM/Manuals/Archive/SI-400941 SI-DBM-M102 Operation Manual Rev_A.doc	2019-12-12 10:50:42
+501	 	PRODUCTS/DBPM/Manuals/Archive/SI-400942 SI-DBM-M102 Specifications.doc	2019-12-12 11:13:00
+502	 	PRODUCTS/DBPM/Manuals/Archive/SI-400952 SI-DBPM-M405-UHV Operation Manual.pdf	2020-04-28 11:14:46
+503	 	PRODUCTS/DBPM/Manuals/Archive/SI-400952_B SI-DBPM-M405-UHV Operation Manual.doc	2020-07-28 13:43:23
+504	 	PRODUCTS/DBPM/Manuals/Archive/SI-400954_A SI-DBPM-M405-UHV Specifications.doc	2020-02-13 13:52:56
+505	 	PRODUCTS/DBPM/Manuals/Archive/SI-400955_A SI-DBPM-M404-UHV Specifications.doc	2020-02-13 15:37:42
+506	 	PRODUCTS/DBPM/Manuals/M102/SI-400941 SI-DBM-M102 Operation Manual Rev_B.doc	2020-10-06 09:45:27
+507	 	PRODUCTS/DBPM/Manuals/M402/SI-101428_M402_ManualGraphic.bmp	2020-10-06 07:20:31
+508	 	PRODUCTS/DBPM/Manuals/M402/SI-400776 SI-DBPM-M402 Operation Manual Rev_H.docx	2021-05-14 09:05:36
+509	 	PRODUCTS/DBPM/Manuals/M402/SI-400776 SI-DBPM-M402 Operation Manual Rev_H.pdf	2020-10-06 11:03:48
+510	 	PRODUCTS/DBPM/Manuals/M403V/SI-400869 SI-DBPM-M403V Operation Manual.doc	2019-04-05 16:04:18
+511	 	PRODUCTS/DBPM/Manuals/M403V/SI-400869 SI-DBPM-M403V Operation Manual.pdf	2019-05-09 09:26:58
+512	 	PRODUCTS/DBPM/Manuals/M404-UHV/SI-400847 SI-DBPM-M404cUHV Operation Manual.doc	2020-10-06 09:38:30
+513	 	PRODUCTS/DBPM/Manuals/M404-UHV/SI-400949 SI-DBPM-M404-UHV Operation Manual.doc	2020-10-06 09:42:30
+514	 	PRODUCTS/DBPM/Manuals/M405-UHV/SI-101658_M405UHV_ManualGraphic.bmp	2020-10-06 09:24:00
+515	 	PRODUCTS/DBPM/Manuals/M405-UHV/SI-400952 SI-DBPM-M405-UHV Operation Manual.doc	2020-10-06 09:32:22
+516	 	PRODUCTS/DBPM/Manuals/M405-UHV/SI-400952 SI-DBPM-M405-UHV Operation Manual.pdf	2021-05-11 09:37:20
+517	 	PRODUCTS/DBPM/Manuals/M405V/SI-101542_M405V_ManualGraphic.bmp	2020-10-06 08:26:57
+518	 	PRODUCTS/DBPM/Manuals/M405V/SI-400770 SI-DBPM-M405V Operation Manual.doc	2020-10-06 09:41:10
+519	 	Project#_1000_1299/#1088 BNL FastCCD/Manuals/Acopian Power Supply Manuals/pet_et7000_quickstart_guide_en.pdf	2013-09-10 11:31:09
+520	 	Project#_1000_1299/#1088 BNL FastCCD/Manuals/Acopian Power Supply Manuals/pet_et7000_user_manual_v110.pdf	2013-11-08 16:28:46
+521	 	Project#_1000_1299/#1088 BNL FastCCD/Manuals/Acopian Power Supply Manuals/webrelay_manual_latest.pdf	2013-09-16 09:42:21
+522	 	Project#_1000_1299/#1138-AMX-FMX-DBPM/Manuals/OldRevs/SI-400535 SI-DBPM-M405-UHV-HV Operation Manual.doc	2015-04-30 13:32:51
+523	 	Project#_1000_1299/#1138-AMX-FMX-DBPM/Manuals/OldRevs/SI-400535 SI-DBPM-M405-UHV-HV Operation Manual_B.doc	2015-04-30 14:02:17
+524	 	Project#_1000_1299/#1138-AMX-FMX-DBPM/Manuals/OldRevs/SI-400535 SI-DBPM-M405-UHV-HV Operation Manual_B.pdf	2015-04-30 13:36:05
+525	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Spectro_CCD_Software_User_Manual_revB.docx	2021-08-16 15:51:45
+526	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/Spectro CCD Software User Manual AzrielComments.docx	2020-04-09 09:15:59
+527	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/Spectro CCD Software User Manual.docx	2020-04-07 16:49:31
+528	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/spectro_imagej_plugin_test.docx	2020-03-24 09:38:37
+529	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/spectro_imagej_plugin_test.pdf	2019-07-31 13:54:12
+530	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/spectro_manual.docx	2020-03-24 09:41:00
+531	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/comprehensive_manual/Archive/spectro_manual.pdf	2019-06-17 13:19:40
+532	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/software_manuals/spectro_git_install_manual.pdf	2020-02-19 16:30:26
+533	 	Project#_1000_1299/#1224_#1155_#1114 DOE SBIR Ph IIA - Spectro CCD/Manuals/software_manuals/spectro_software_manual.pdf	2020-02-19 16:30:48
+534	 	Project#_1000_1299/#1248_CEA_RACK_MOUNT_HTTP_SERVER/Manuals/Archive/SI-400790_HTTP_Camera_Server_Setup_Guide_Rev0.pdf	2018-04-11 09:14:52
+535	 	Project#_1300_1499/#1335 Sandia 10 kV Pulser (SO 2020066)/Manuals/Photos/10kV_Front_Panel.jpg	2021-10-25 15:54:00
+536	 	Project#_1300_1499/#1335 Sandia 10 kV Pulser (SO 2020066)/Manuals/Photos/10kV_Initial_Settings.jpg	2021-10-25 15:55:00
+537	 	Project#_1300_1499/#1335 Sandia 10 kV Pulser (SO 2020066)/Manuals/Photos/Load_Fault.jpg	2021-10-25 15:55:00
+538	 	Project#_1300_1499/#1335 Sandia 10 kV Pulser (SO 2020066)/Manuals/Photos/Pulse_Unit.jpg	2021-10-25 15:54:00
+539	 	Project#_1300_1499/#1335 Sandia 10 kV Pulser (SO 2020066)/Manuals/Photos/XS_Fault.jpg	2021-10-25 15:56:00
+540	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/Accessories_bro.pdf	2000-08-25 03:22:10
+541	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/AM_Rev_A1.pdf	2006-07-21 11:13:29
+542	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/ExciLife_Rev_A1.pdf	2006-07-21 10:38:03
+543	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/Instcat.pdf	2004-01-16 08:22:11
+544	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/optcat.pdf	2002-01-25 11:19:34
+545	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/optics_capabilities_flyer1.pdf	2006-07-27 10:52:43
+546	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/Princeton_Acton_optics_capabilities_flyer.pdf	2009-04-06 15:33:27
+547	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/Princeton_Instruments_Spectroscopy_Brochure_Mar-08.pdf	2009-04-06 15:32:13
+548	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/SpectraPro_HRE_Rev_A0.pdf	2006-07-21 11:09:22
+549	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/SpectraPro_Rev_A1.pdf	2006-07-21 11:08:39
+550	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/spectroscopy_brochure.pdf	2006-07-21 11:07:52
+551	 	Software/PrincetonInstruments/MonoControl/Manuals/Catalog/trivista.pdf	2006-07-21 11:12:49
+552	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/150-749.pdf	2008-03-13 15:00:10
+553	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/300-749(3).pdf	2008-03-13 14:50:21
+554	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/300749.pdf	2008-03-13 15:02:38
+555	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/300iMotorSlit.pdf	2008-03-13 15:04:40
+556	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/750-749.pdf	2008-03-13 15:13:02
+557	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AddingOrInterchangingGrating.pdf	2008-03-13 15:20:55
+558	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/CareUV.pdf	2006-07-20 16:24:42
+559	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/cautionFiber.pdf	2008-03-13 15:23:30
+560	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/CM-446-050.pdf	2008-03-13 15:34:23
+561	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/DA-780.pdf	2006-08-21 16:51:00
+562	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/DA-780_Side_Win_Det_Asm.pdf	2006-08-21 15:51:00
+563	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/DS-421.pdf	2008-03-13 15:38:08
+564	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/DS-421A.pdf	2018-04-14 22:29:37
+565	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/DSP2300I_Subtractive.pdf	2006-07-24 11:24:50
+566	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Dsp300i.pdf	2008-03-13 16:10:33
+567	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Dsp500i.pdf	2008-03-13 16:18:48
+568	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Dsp750.pdf	2006-07-20 15:47:29
+569	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FA-2448.pdf	2008-03-13 17:06:16
+570	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FA-448.pdf	2008-03-13 11:53:06
+571	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FA-448Filter.pdf	2008-03-17 09:46:01
+572	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-010-FC mount.pdf	2004-01-16 14:44:55
+573	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-010-FC.pdf	2004-01-16 13:44:55
+574	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-010-SMA mount.pdf	2004-01-16 14:45:32
+575	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-010-SMA.pdf	2004-01-16 13:45:32
+576	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-010.pdf	2008-03-17 09:50:40
+577	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-020-FC adapter.pdf	2004-01-16 14:41:09
+578	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-020-FC.pdf	2004-01-16 13:41:09
+579	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-020-SMA adapter.pdf	2004-01-16 14:41:31
+580	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-020-SMA.pdf	2004-01-16 13:41:31
+581	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-020.pdf	2008-03-17 09:53:16
+582	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-021-U.pdf	2009-07-24 17:56:01
+583	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-030-FiberCoupler.pdf	2009-07-24 16:22:10
+584	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FC-446-030DiverterMirror.pdf	2008-03-17 10:45:33
+585	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/FocusAdjustmentForSP-F-Mirror.pdf	2008-03-17 10:16:34
+586	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/ID-441-C.pdf	2008-03-17 10:08:10
+587	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/ID-441.pdf	2008-03-17 10:05:13
+588	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/ID-442-442-1a-442-2.pdf	2008-03-17 10:46:31
+589	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/ID-444.pdf	2008-03-13 14:39:34
+590	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/ID443.pdf	2008-03-13 14:33:10
+591	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/InSight_System_Manual.pdf	2006-05-10 14:10:16
+592	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/InSpectrum150Supp.pdf	2008-04-09 14:16:16
+593	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/InSpectrum300.pdf	2008-04-09 15:05:00
+594	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/IS-434.pdf	2008-03-18 14:14:03
+595	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/IS-434A.pdf	2008-03-18 14:20:30
+596	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/K-Slit.pdf	2008-03-18 14:27:31
+597	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/LS-785.pdf	2009-04-01 10:57:00
+598	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MF-460.pdf	2008-03-18 15:15:39
+599	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MF352.pdf	2008-03-18 15:09:59
+600	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MicroSpec attachment to Microscope.pdf	2006-07-24 10:52:21
+601	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MicroSpec_attachment_to_Microscope.pdf	2006-07-24 09:52:21
+602	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Monochromator_Control_Software_Manual.pdf	2018-04-14 22:34:21
+603	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MS-416-220.pdf	2008-03-18 15:27:52
+604	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/MS-416.pdf	2008-03-18 15:26:52
+605	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/NCL-SHC-EXT-CCD.pdf	2008-03-19 12:35:01
+606	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/NCL.pdf	2008-03-18 16:00:29
+607	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/NFC-446-040sup.pdf	2008-03-19 13:29:40
+608	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PD-473-1.pdf	2008-03-19 13:48:51
+609	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PD438_PD439.pdf	2008-03-19 13:37:11
+610	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PD471.pdf	2008-04-09 08:45:32
+611	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PHV-400-1800.pdf	2008-03-19 14:04:52
+612	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PHV-400.pdf	2008-03-19 13:55:55
+613	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PMT_P1.pdf	2008-03-19 14:07:26
+614	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PMT_P2.pdf	2008-03-19 14:09:53
+615	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PMT_P3.pdf	2008-03-19 14:12:15
+616	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/PVCAM 2.7 Software User Manual.pdf	2009-08-20 09:14:37
+617	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SC-447.pdf	2008-03-31 15:53:21
+618	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SCA-440-UV-N.pdf	2008-03-31 16:09:51
+619	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SCA-440-UV-P.pdf	2008-03-31 16:10:04
+620	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SD2.pdf	2008-03-31 16:19:49
+621	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SD3.pdf	2008-03-31 16:31:17
+622	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SHC-EXT Shutter.pdf	2008-03-31 16:36:44
+623	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SI-440-UV-P.pdf	2008-03-31 16:56:00
+624	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SI-440.pdf	2008-03-31 16:46:14
+625	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Sp-150.pdf	2008-04-01 11:46:27
+626	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-2150i.pdf	2008-04-03 14:41:25
+627	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-2300i.pdf	2008-04-03 14:36:35
+628	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-2500i.pdf	2008-04-03 14:49:37
+629	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-2750.pdf	2008-04-07 10:26:53
+630	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-275_Obsolete.pdf	2006-08-14 08:09:49
+631	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-300-749.pdf	2008-04-07 11:37:46
+632	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Sp-300i.pdf	2008-04-07 14:53:31
+633	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Sp-500i.pdf	2008-04-08 13:00:04
+634	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP-500iMotorSlit.pdf	2008-04-08 12:34:05
+635	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Sp-750AddendumMotorizedSlits.pdf	2008-04-08 12:55:08
+636	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Sp-750i.pdf	2008-04-08 16:41:51
+637	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SP150gratchng.pdf	2008-04-01 10:50:13
+638	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/Spectrahub.pdf	2018-04-14 22:34:21
+639	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SpectraPro_COM_Interface.pdf	2008-04-09 10:40:23
+640	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SpectraPro_HRE_Setup_and_Alignment_Manual.pdf	2006-01-31 19:03:23
+641	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SpectraSense_Manual.pdf	2008-04-22 14:53:26
+642	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SpectraSense_SDK_Manual.PDF	2000-11-28 05:07:40
+643	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/SupplementalExternalShutter.pdf	2008-03-18 09:08:59
+644	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TDS-429.pdf	2008-03-17 16:59:23
+645	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TDS-429A.pdf	2008-03-17 17:04:43
+646	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TripleGratingTurret-750.pdf	2008-03-17 16:48:59
+647	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TripleGratingTurret.pdf	2008-03-17 16:44:29
+648	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TS-425.pdf	2008-03-17 16:26:53
+649	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TS-425A.pdf	2008-03-17 16:30:53
+650	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TS-428.pdf	2008-03-17 15:47:40
+651	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/TS-428A.pdf	2008-03-17 15:53:25
+652	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/VM-502.pdf	2008-03-17 15:09:09
+653	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/VM-504 SD3 (V2.A).pdf	2006-08-14 12:14:39
+654	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/VM-504.pdf	2008-03-17 14:40:35
+655	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/VM-504_SD3.pdf	2006-08-14 11:14:39
+656	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/XS-432.pdf	2008-03-17 13:05:27
+657	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/XS-432A.pdf	2008-03-17 13:05:19
+658	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/XS-433 Xenon Light Source.pdf	2006-09-21 17:26:08
+659	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/XS-433_Xenon_Light_Source.pdf	2006-07-24 12:35:56
+660	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM Figure 1-2-4-5-6.pdf	2002-03-06 14:20:58
+661	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM Figure 2-1 2 3.pdf	2002-03-05 16:15:02
+662	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM Figure 3 Angle Mirror Brkt.pdf	2002-03-05 16:18:20
+663	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM Figure 3 Mirror Post.pdf	2002-02-14 15:51:32
+664	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM Schematic.pdf	2002-03-05 16:21:36
+665	 	Software/PrincetonInstruments/MonoControl/Manuals/Manual/AM/AM-510 SD2 (21).pdf	2006-07-20 17:46:10
+666	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/150Tech.pdf	1999-03-16 02:34:16
+667	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/AXISnote.pdf	1999-03-16 02:34:52
+668	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Chemomet.pdf	1999-03-16 02:36:20
+669	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/gratings.pdf	1999-03-16 02:40:24
+670	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Imaging.pdf	1999-03-16 02:41:04
+671	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Srcecomp.pdf	1999-03-16 02:45:34
+672	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Fluorescence/150flourescence.pdf	2002-01-29 03:28:12
+673	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Fluorescence/Additive_Subtractive_Modes_TriVista.pdf	2009-04-06 15:00:46
+674	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Fluorescence/PLIF_to_study_plasma_turbulence.pdf	2009-04-06 15:01:01
+675	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Fluorescence/Time_resolved_fluorescence_spectroscopy.pdf	2009-04-06 15:01:04
+676	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/NIR/Optimizing_NIR_Spectroscopy_Setup.pdf	2009-04-06 14:57:39
+677	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Optics/Optics_and_Coatings-Accurate_Optical_Coating_Characterization.pdf	2009-04-06 15:16:00
+678	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Optics/Optics_and_Coatings-Care_and_Use_of_Open_Faced_UV_Filters.pdf	2009-04-06 15:16:06
+679	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Optics/Optics_and_Coatings-Care_and_Use_of_UV_Laser_Mirrors.pdf	2009-04-06 15:16:11
+680	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Optics/Optics_and_Coatings-Care_and_Use_of_Vacuum_UV_Coatings.pdf	2009-04-06 15:16:19
+681	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Optics/optlif.pdf	2002-01-25 11:22:30
+682	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/300_raman_xylene.pdf	2002-01-29 03:29:02
+683	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/Additive_Subtractive_Modes_TriVista.pdf	2009-04-06 14:59:52
+684	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/BALF_Research_with_Raman_Spectroscopy.pdf	2009-04-06 14:59:38
+685	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/Chemometric_Raman_Analysis.pdf	2009-04-06 14:59:30
+686	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/Confocal_raman_microscopy_note.pdf	2009-04-06 14:59:19
+687	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/Raman_on_SiGe_Superlattice_Using_TriVista.pdf	2009-04-06 14:59:10
+688	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Raman/Raman_Spectroscopy_Basics.pdf	2009-04-06 14:59:28
+689	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Astronomy/Cool_gas_on_sun.pdf	2009-04-06 15:11:17
+690	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Astronomy/Measuring_the_Size_of_Charon.pdf	2009-04-06 15:10:59
+691	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Astronomy/Speckle Imaging.pdf	2009-04-06 15:11:19
+692	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Bose-Einstein Condensate/Kinetics_Readout_for_Fast_Temporal_Studies.pdf	2009-04-06 15:13:04
+693	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Combustion/Planar_Laser_Induced_Fluorescence_Imaging_of_OH_Radicals.pdf	2009-04-06 15:15:20
+694	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/Scientific Imaging/Nanotechnology/Carbon_nanotubes_formation.pdf	2009-04-06 15:11:39
+695	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/x-ray imaging/Coherent_x-ray_app_note.pdf	2009-04-06 15:09:41
+696	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/x-ray imaging/Xray_Photon_Correlation_Spectroscopy_at_a_Third_Generation_Synchrotron.pdf	2009-04-06 15:10:00
+697	 	Software/PrincetonInstruments/MonoControl/Manuals/Technote/x-ray imaging/X_Ray_Phase_Contrast_Imaging_AppNote1RevA1.pdf	2009-04-06 15:10:04
+698	 	Software/Rigol/Manuals/DG822/DG800 Datasheet.pdf	2021-06-24 15:47:33
+699	 	Software/Rigol/Manuals/DG822/DG800_ProgrammingGuide_EN.pdf	2021-06-24 15:47:09
+700	 	Software/Rigol/Manuals/DG822/DG800_QuickGuide_EN.pdf	2021-06-24 15:47:18
+701	 	Software/Rigol/Manuals/DG822/DG800_UserGuide_EN.pdf	2021-06-24 15:47:01

@@ -1,0 +1,3 @@
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/ and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate

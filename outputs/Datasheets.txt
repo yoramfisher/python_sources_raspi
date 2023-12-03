@@ -1,0 +1,96 @@
+Created with ScanFiles Ver 1.2  Date:2023-12-03:
+Called with dir:/home/sydor/smb_share/Documentation/Datasheets and extension:['doc', 'docx', 'pdf', 'xls', 'xlsx', 'jpeg', 'bmp', 'jpg', 'pptx', 'ppt']
+#	NA	Filepath	ModDate
+1	 	/Optek_OPF5020.pdf	2019-09-24 09:54:19
+2	 	/S22-M2-N-SC-1-2-5H-L Test Data Sheet.pdf	2021-03-25 12:43:10
+3	 	/Advanced_Energy/Excelsys-Ultimod-datasheet.pdf	2022-08-04 13:29:41
+4	 	/Advanced_Energy/Xgen_Ultimod_PSU_vtrim&paralleling_application_note_AN1306.pdf	2022-06-08 11:07:09
+5	 	/Amphenol/SIHDGGA120A01_Thermal_Clamp.pdf	2022-06-01 12:07:34
+6	 	/Camera Datasheets/CCD_Database_v1_3.xls	2017-07-13 11:30:27
+7	 	/Camera Datasheets/Andor/ldr328gss.pdf	2009-09-30 15:04:28
+8	 	/Camera Datasheets/AVT/AVT_GigE_Camera_and_Driver_Features.pdf	2014-09-30 09:48:22
+9	 	/Camera Datasheets/AVT/AVT_IO_Cable_Manual_V3_0_0.pdf	2014-10-03 11:04:44
+10	 	/Camera Datasheets/AVT/Manta_CameraControls_V4.1.0_en.pdf	2014-09-30 09:50:22
+11	 	/Camera Datasheets/AVT/Manta_TechMan_V7.0.0_en.pdf	2013-09-20 14:47:46
+12	 	/Camera Datasheets/Basler/2S_A100_151208.pdf	2009-09-29 10:49:48
+13	 	/Camera Datasheets/Basler/6S_A100f_151208.pdf	2009-09-29 10:48:04
+14	 	/Camera Datasheets/Basler/AW00011915000 Scout-g Users Manual.pdf	2012-06-20 13:25:33
+15	 	/Camera Datasheets/Basler/IP Cameras.pdf	2009-09-25 11:20:52
+16	 	/Camera Datasheets/Basler/MV-13_MT9M413C36STC.pdf	2009-09-29 10:20:27
+17	 	/Camera Datasheets/Basler/Product Line Overview.pdf	2009-09-25 11:20:48
+18	 	/Camera Datasheets/e2V/10-42-40-BI-AIMO-Cpak.pdf	2012-04-19 15:50:37
+19	 	/Camera Datasheets/e2V/CCD42-40 NIMO_BI_7_v1.pdf	2012-04-19 15:52:48
+20	 	/Camera Datasheets/Hamamatsu/e_orcar2.pdf	2011-02-22 09:19:33
+21	 	/Camera Datasheets/Hamamatsu/REC6-S_DRW_R Alt  for nds6.pdf	2011-03-03 09:44:27
+22	 	/Camera Datasheets/Imperx/KAI-4021LongSpec.pdf	2010-02-17 13:09:41
+23	 	/Camera Datasheets/Imperx/TEC-4M15Spec_sm.pdf	2010-02-09 16:45:05
+24	 	/Camera Datasheets/Luminera/INFINITY2-5Datasheet.pdf	2013-06-18 12:19:39
+25	 	/Camera Datasheets/Princeton/Princeton_Instruments_PIXIS_XF_2048B_Rev_N1_11.22.2010.pdf	2013-10-17 10:07:30
+26	 	/Camera Datasheets/Prosilica/70-0064_GC_TechMan_V2.0.pdf	2013-03-15 12:11:51
+27	 	/Camera Datasheets/Prosilica/700018A%20-%20GC1380%20User%20Manual.pdf	2009-10-02 13:43:38
+28	 	/Camera Datasheets/Prosilica/700039A%20-%20GC1280%20User%20Manual.pdf	2009-09-29 09:13:52
+29	 	/Camera Datasheets/Prosilica/AVT_Camera_and_Driver_Attributes.pdf	2013-12-24 10:20:52
+30	 	/Camera Datasheets/Prosilica/CCD/a6805283.pdf	2009-09-29 10:30:22
+31	 	/Camera Datasheets/Prosilica/CMOS/ibis5_a_1300_8.pdf	2009-09-29 09:13:41
+32	 	/Camera Datasheets/Prosilica/GC1380/70-0064_GC_TechMan_V2.0.pdf	2012-06-20 13:47:07
+33	 	/Camera Datasheets/Qimage/exi-aqua.pdf	2009-09-30 14:38:05
+34	 	/Camera Datasheets/Qimage/RetigaEXi_fast1394.pdf	2009-10-02 09:48:23
+35	 	/Camera Datasheets/Sony/GigE New w 99E.pdf	2013-10-02 15:01:19
+36	 	/Camera Datasheets/Sony/gige_prodbroch.pdf	2012-06-05 10:36:02
+37	 	/Camera Datasheets/Sony/ITS_Brochure_Final.pdf	2012-06-05 10:37:18
+38	 	/Camera Datasheets/Sony/XCGH280 Series.pdf	2012-08-14 08:16:36
+39	 	/Camera Datasheets/Sony/XCG_TM_v2.pdf	2013-10-17 15:26:39
+40	 	/Camera Datasheets/Spectral/1000s_datasheet.pdf	2010-03-17 16:06:34
+41	 	/Camera Datasheets/Spectral/1200_ccd_3041.pdf	2011-11-30 16:11:01
+42	 	/Camera Datasheets/Spectral/1200_ccd_3041f.pdf	2011-11-30 16:12:30
+43	 	/Camera Datasheets/Spectral/6136-00.pdf	2011-11-29 11:31:09
+44	 	/Camera Datasheets/Spectral/800s_datasheet.pdf	2010-03-17 16:12:43
+45	 	/Camera Datasheets/Stanford/XRMega-10CL_data_sheet.pdf	2010-02-01 11:04:01
+46	 	/Camera Datasheets/Stanford/XRMega-10Zcl_data_sheet.pdf	2010-02-01 11:04:21
+47	 	/Camera Datasheets/Vieworks/KAI-2020LongSpec-1.pdf	2010-09-23 11:47:02
+48	 	/Cosel/Cosel ZUS25 DC-DC converter.pdf	2015-02-04 09:54:00
+49	 	/Cosel/Cosel ZUW25 DC-DC converter.pdf	2015-02-04 09:52:50
+50	 	/ELMA/guardbox-33_datasheet_e.pdf	2020-12-22 09:30:20
+51	 	/Epo-Tek/H20E-D.pdf	2022-06-20 10:51:22
+52	 	/Epo-Tek/H20E.pdf	2022-06-20 10:49:54
+53	 	/Epo-Tek/T7109-19.pdf	2022-04-06 10:31:58
+54	 	/Excelsys/Advanced_Energy_Ultimod_Series_Datasheet.pdf	2022-04-27 14:11:32
+55	 	/Faulhaber/EN_10-1_FMM AM1020 motor gearhead(s) datasheet.pdf	2020-08-26 10:49:35
+56	 	/Faulhaber/EN_AM1020_FPS.pdf	2020-08-26 10:47:52
+57	 	/Hammond mfg/Hammond 1455Q1601BK datasheet.pdf	2021-06-22 16:20:33
+58	 	/Hammond mfg/Hammond-1455C801BK-datasheet.pdf	2022-02-01 15:10:10
+59	 	/Hammond mfg/Hammond_1550Z116_datasheet.pdf	2022-02-18 11:12:33
+60	 	/Hammond mfg/Hammond_1550Z117_datasheet.pdf	2022-04-05 10:47:29
+61	 	/HaydonKerk Pittman/26449-05 data sheet and mech drawing.pdf	2020-11-11 13:27:06
+62	 	/HaydonKerk Pittman/Z20541-05 datasheet and mech drawing.pdf	2020-11-11 13:55:25
+63	 	/HaydonKerk Pittman/Z20541-05-900 datasheet and mech drawing.pdf	2020-11-11 13:55:40
+64	 	/Henkel/LocTite Super Glue Liquid Control.pdf	2020-12-10 15:29:39
+65	 	/Keithley/Model 6485 & 9487 user manual Mar2011.pdf	2021-06-09 14:29:21
+66	 	/Lee Spring/LE 022B 002M datasheet.pdf	2020-11-10 14:55:42
+67	 	/Lee Spring/LE 022B 002S datasheet.pdf	2020-11-10 15:15:36
+68	 	/Lee Spring/LE 026B 002S datasheet.pdf	2020-11-10 14:56:42
+69	 	/Meerstetter/TEC-1161_Datasheet_5231C.pdf	2021-08-04 08:12:43
+70	 	/Meerstetter/TEC-1161_Mods_for_sCMOS&PAD_systems.pdf	2021-08-04 08:34:31
+71	 	/Meerstetter/TUPS_Meerstetter_Hardware_Modz_Notes.docx	2022-03-22 16:02:36
+72	 	/Netburner/MOD5441X-100-200IR/MOD5441X-100-200IR Bottom.jpg	2021-03-25 14:00:23
+73	 	/Netburner/MOD5441X-100-200IR/MOD5441X-100-200IR Top.jpg	2021-03-25 13:59:45
+74	 	/Netburner/MOD5441X-100-200IR/MOD5441X-100-200IR.pdf	2021-03-25 13:49:50
+75	 	/Princeton Instruments/IsoPlane SCT 320 Manual Issue 2 (4411-0143).pdf	2021-01-27 11:23:53
+76	 	/Recom/RACM100.pdf	2021-10-19 12:05:22
+77	 	/Recom/RACM65-12S.pdf	2021-02-25 14:54:16
+78	 	/SL Power/TU425S12E.pdf	2021-02-26 10:17:56
+79	 	/Spectral_Instruments/SI-1000/1000S camera-brochure RevB.pdf	2021-01-27 14:03:29
+80	 	/Spectral_Instruments/SI-1000/SI-1000 datasheet.pdf	2020-12-02 09:34:28
+81	 	/Spectral_Instruments/SI-1000/SI-1000_DC_PSU_Service_Manual_9623A.pdf	2020-02-28 13:24:38
+82	 	/Spectral_Instruments/SI-1900/SI-1900S_CCD_System_Manual.pdf	2022-04-05 10:09:06
+83	 	/TE Connectivity/859526-4 Datasheet.pdf	2021-07-07 09:25:01
+84	 	/TE Technologies/TE-127-2.0-2.5_Datasheet.pdf	2022-03-22 12:02:08
+85	 	/TE Technologies/TE-63-1.0-1.3 Datasheet.pdf	2022-03-07 10:50:19
+86	 	/Uniblitz (Vincent Associates)/CS45 45mm uni-stable shutter.pdf	2020-11-16 16:17:21
+87	 	/Uniblitz (Vincent Associates)/D880C Shutter Driver Card User Manual 2.00 RevC.pdf	2020-11-16 15:56:49
+88	 	/Uniblitz (Vincent Associates)/NS25S 25mm uni-stable shutter.pdf	2020-11-16 15:54:46
+89	 	/Uniblitz (Vincent Associates)/VS25 25mm uni-stable shutter.pdf	2020-11-16 16:44:32
+90	 	/Uniblitz (Vincent Associates)/VS35 35mm uni-stable shutter.pdf	2020-11-16 16:42:47
+91	 	/XP Power/250 350 EMH Series.pdf	2020-12-28 16:14:43
+92	 	/XP Power/FCM400PS28.pdf	2020-12-21 11:24:04
+93	 	/XP Power/SF_C_Series-1508327.pdf	2022-02-24 11:46:16
