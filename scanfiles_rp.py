@@ -61,7 +61,15 @@ def createHeader(dir, extension):
 def scan_files(dir_path, output_file, extension = None, foldername = None ):
     global global_counter
     skipped = {} # Create empty dictionary
-    with open(OUTPUT_DIR+output_file, 'a') as file:
+
+    # Append to Log
+    with open(OUTPUT_DIR+'log.txt', 'a') as filelog:
+        filelog.writelines(f"Scanfiles run on Date:{datetime.date.today()} "\
+            "with: {dir_path} {output_file}\n")
+    
+
+    # Overwrite file
+    with open(OUTPUT_DIR+output_file, 'w') as file:
         header = createHeader(dir_path, extension)
         file.writelines(header)
         for root, dirs, files in os.walk(dir_path):
@@ -141,7 +149,7 @@ def list_directories(start_dir):
 
 
 def write_to_file( dir_path, output_file,  extensions, fileslist ):
-    with open(OUTPUT_DIR + output_file, 'a') as file:
+    with open(OUTPUT_DIR + output_file, 'w') as file:
         header = createHeader(dir_path, extensions)
         file.writelines(header)
         i=0
@@ -190,26 +198,28 @@ def list_files(start_dir, extension=None, max_depth=None, foldername=None):
  
 
 if __name__ == "__main__":
-    if 0:
+
+
+    if 1:
         global_counter = 1
         scan_files(ZDRIVE + r"Documentation/Testing/Test Procedures, Test Data Sheets", "TestProcs.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'] )
     
      # MECHANICAL PDFS
-    if 0:
+    if 1:
         global_counter = 1
         scan_files(ZDRIVE + r"Documentation/Drawings/Mechanical PDFs", "MechanicalDrawings.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'] )
     
 
     # CHECK-OFF LISTS
-    if 0:
+    if 1:
         global_counter = 1
         scan_files(ZDRIVE + r"Documentation/Check-off Lists", "CheckoffLists.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'] )
 
     # DATASHEETS
-    if 0:
+    if 1:
         global_counter = 1
         scan_files(ZDRIVE + r"Documentation/Datasheets", "Datasheets.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'] )
@@ -217,7 +227,7 @@ if __name__ == "__main__":
     # FYI takes a stupid amount of time
     # MANUALS
     # This one scans from root, but only searches within directories named 'Manuals'
-    if 0:
+    if 1:
         global_counter = 1
         scan_files(ZDRIVE + r"", "Manuals.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'],
@@ -226,7 +236,7 @@ if __name__ == "__main__":
 
     # ASSEMBLY_PROCEDURES
     # This one scans from root, but only searches within directories named 'Assembly Procedures'
-    if 0:
+    if 1:
         scan_files(ZDRIVE + r"", "AssyProcedures.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'],
                 foldername='Assembly Procedures' )
@@ -245,7 +255,7 @@ if __name__ == "__main__":
     
 
      # Scan ALL the folders in Z:\Documentation except ones listed
-    if 0:
+    if 1:
         skippaths = ["!Anchor", "3D_PDF", "Archive", "Check-off Lists", "Drawings",
                      "Manuals", "Testing"]
 
@@ -270,7 +280,7 @@ if __name__ == "__main__":
 
 
      # Scan Project # folder names
-    if 0:
+    if 1:
         global_counter = 1   
         dir_path = ZDRIVE 
         proj_paths = [r"Project#_1000_1299", r"Project#_1300_1499", 
@@ -287,7 +297,7 @@ if __name__ == "__main__":
 
 
     # PRODUCTS
-    if 0: 
+    if 1: 
         global_counter = 1
         scan_files(ZDRIVE + r"PRODUCTS", "Products.txt", 
                extension=['doc', 'docx', 'pdf','xls','xlsx','jpeg','bmp','jpg','pptx','ppt'] )
